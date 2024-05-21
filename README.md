@@ -1,7 +1,7 @@
 ### Hi there 👋, i am Alvee
 #### Founder-Owner @ proyogLab, impedancePlus
-Former R&D-Programmer @ Octagon Danışmanlık, İstanbul, Türkiye
-CSE Graduate, Ahsanullah University of Science and Technology, Dhaka, Bangladesh
+#### Former R&D-Programmer @ Octagon Danışmanlık, İstanbul, Türkiye
+#### CSE Graduate, Ahsanullah University of Science and Technology, Dhaka, Bangladesh
 
 Hello, i am Alvee. I am 23 years old and currently pursuing my undergrad in CSE from AUST, Dhaka. I am also an entrepreneur and i have a startup named impedancePlus. I am currently assigned as the CEO of my company. I have always been interested in engineering and physics-math, hence took CSE purely out of passion. 
 My company impedancePlus , is an in-depth Engineering-Education platform and Electronics-Robotics-Iot Tech-Product company which is fully relevant to my field of study. 
