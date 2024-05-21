@@ -1,6 +1,5 @@
 ### Hi there 👋, i am Alvee
-#### Owner-CEO, impedancePlus | CSE Undergrad, AUST
-![Founder-Owner @ proyogLab, impedancePlus | CSE Graduate, AUST](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/262789778_4624632960962947_6151143864781956792_n.jpg?stp=dst-jpg_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeFX-JWskUr2XwVAUJbBRMspnZ08t2STMXGdnTy3ZJMxcR4xWtChekYAJiwbrIsIJXwjeLXb9VEiiSQ9_S415PB-&_nc_ohc=QIj1keGX5TkAX-k5NUG&_nc_oc=AQm_HwzOS27XmrPTa6R1jEdEz87eYWbSIKZveBmShb_b_XrWOeNz_qoEdVSYE-8NNHA&_nc_ht=scontent.fdac14-1.fna&oh=00_AfDdkScoYFddZSQOspPPQWitVYFgcYx2MQH-nHYECD0kvQ&oe=63695562)
+#### Founder-Owner @ proyogLab, impedancePlus | Former R&D-Programmer @ Octagon Danışmanlık, Türkiye | CSE Undergrad, AUST
 
 Hello, i am Alvee. I am 23 years old and currently pursuing my undergrad in CSE from AUST, Dhaka. I am also an entrepreneur and i have a startup named impedancePlus. I am currently assigned as the CEO of my company. I have always been interested in engineering and physics-math, hence took CSE purely out of passion. 
 My company impedancePlus , is an in-depth Engineering-Education platform and Electronics-Robotics-Iot Tech-Product company which is fully relevant to my field of study. 
