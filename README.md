@@ -1,4 +1,5 @@
 ### Hi there 👋, i am Alvee
+#### MACHINE LEARNING ENGINEER | EMBEDDED SYSTEMS DEVELOPER
 #### Founder-Owner @ proyogLab, impedancePlus
 #### Former R&D-Programmer @ Octagon Danışmanlık, İstanbul, Türkiye
 #### CSE Graduate, Ahsanullah University of Science and Technology, Dhaka, Bangladesh
