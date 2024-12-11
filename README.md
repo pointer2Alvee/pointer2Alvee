@@ -18,7 +18,7 @@ Founder | Software Engineer
 </i></b><br> 
 Dhaka, Bangladesh (On-site) | Mar,2023 ~ Present <br>
 <span style="display: block; margin-top: 0.55vw; font-size: 1.65vw;">
-    I am currently working as a SWE to enhance & develop features of "alokshobdo" Programmable Learning Device, an original Learning-Tool from proyogLab. I am also looking forward to develop a.i tools and softwares from my company.
+    I am currently working as a SWE to enhance & develop features of "alokshobdo" Programmable Learning Device, an original Learning-Tool from proyogLab. I am also looking forward to develop a.i tools,softwares, Saas for my company.
 </span>
 <br>
 
