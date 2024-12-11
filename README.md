@@ -11,7 +11,7 @@ I have completed my Bachelor of Science in Computer Science and Engineering from
 </h3> 
 
 <!--Sub-section: proyogLab-->
-<b style="font-size:1.95vw ; margin-bottom:.5vw"> ● ML/DL  ● DSA  ● Python  ● PyTorch </b> <br> 
+<b style="font-size:1.95vw ; margin-bottom:.5vw"> ● ML/DL Algorithms  ● Embedded-Sys Development  ● DSA  ● Python  ● PyTorch   ● ML Tech-Stack </b> <br> 
 </p>
 
 
@@ -104,7 +104,7 @@ Bachelor of Science in Computer Science & Engineering
 
 <p align="left"> 
 <!--Sub-section: LANGUAGES-->
-<h4 align="left"> LANGUAGES | FRAMEWORKS | DEV-TOOLS : </h4>
+<h3 align="left"> TECH-STACK : LANGUAGES | FRAMEWORKS | DEV-TOOLS : </h3>
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
