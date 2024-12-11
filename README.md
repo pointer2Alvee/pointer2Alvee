@@ -14,10 +14,10 @@ I have completed my Bachelor of Science in Computer Science and Engineering from
 <!--Sub-section: proyogLab-->
 <b style="font-size:1.95vw ; margin-bottom:.5vw">● proyogLab<sup style="font-size:.95vw">TM</sup> | Dhaka, Bangladesh (On-site)</b> <br> 
 <b><i style="font-size:1.70vw ; margin-top:.5vw; color:#3E3B3A">
-Founder | Software Engineer 
+Founder, Software Engineer 
 </i></b><br> 
 <span style="display: block; margin-top: 0.55vw; font-size: 1.65vw;">
-   Developing features for "alokshobdo" PLD. Very optimistic to develop a.i systems, R&D tools-softwares, Saas for proyogLab.
+   Developing features for "alokshobdo" PLD. Optimistic to develop a.i systems, R&D tools-softwares, Saas for proyogLab.
 </span>
 <br>
 
