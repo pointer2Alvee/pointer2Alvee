@@ -12,9 +12,6 @@ I have completed my Bachelor of Science in Computer Science and Engineering from
 
 <!--Sub-section: proyogLab-->
 <b style="font-size:1.95vw ; margin-bottom:.5vw"> ● ML/DL  ● DSA  ● Python  ● PyTorch </b> <br> 
-
-<br>
-   
 </p>
 
 
@@ -54,7 +51,7 @@ Founder | Embedded Systems Developer
 Built an ecom business, focused on selling electronic-components/tools alongside providing embedded-prototyping-services.
 </span>
 <br>
-
+</p>
 <!--Section: EDUCATION-->
 
 <p>
