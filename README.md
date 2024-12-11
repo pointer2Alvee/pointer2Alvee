@@ -126,7 +126,7 @@ Bachelor of Science in Computer Science & Engineering
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/> </a>
-<a href="https://fritzing.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fritzing_Icon.png" alt="Fritzing" width="40" height="40"/> </a>
+<a href="https://fritzing.org/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/fritzing-icon-2048x2048-t2pp6p4q.png" alt="Fritzing" width="40" height="40"/> </a>
 
 
 </p>
