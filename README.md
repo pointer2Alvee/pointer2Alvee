@@ -55,8 +55,11 @@ Built an ecom business, focused on selling electronic-components/tools alongside
 <b><i style="font-size:1.70vw ; margin-top:.5vw; color:#3E3B3A">
 Bachelor of Science in Computer Science & Engineering
 </i></b>
-</p> <br>
+</p>
+
+<!-- A LINE --> 
 <hr style="width:50%;text-align:left;margin-left:0"> 
+
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pointer2alvee&label=Profile%20views&color=0e75b6&style=flat" alt="pointer2alvee" /> </p> -->
 
@@ -76,7 +79,7 @@ Bachelor of Science in Computer Science & Engineering
 - 📄 Here's my resume : [alvee]()
   
 - 🌐 Have a look at my portfolio : [iamAlvee]()
-- 
+
 - ⚡ Fun fact, **I fancy playing games and watching horror thriller films**
 
 <h3 align="left">CONNECT WITH ME:</h3>
