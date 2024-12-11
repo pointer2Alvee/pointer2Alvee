@@ -7,7 +7,7 @@ I have completed my Bachelor of Science in Computer Science and Engineering from
 
 <p>
 <h3 style="margin-top: 0.5vw; margin-bottom: 1.5vw;">
-<b>SKILLS</b>
+<b>🎯SKILLS</b>
 </h3> 
 
 <!--Sub-section: proyogLab-->
@@ -17,7 +17,7 @@ I have completed my Bachelor of Science in Computer Science and Engineering from
 
 <p>
 <h3 style="margin-top: 0.5vw; margin-bottom: 1.5vw;">
-<b>EXPERIENCES</b>
+<b>🛠️EXPERIENCES</b>
 </h3> 
 
 <!--Sub-section: proyogLab-->
@@ -56,7 +56,7 @@ Built an ecom business, focused on selling electronic-components/tools alongside
 
 <p>
 <h3 style="margin-top: 0.5vw; margin-bottom: 1.5vw;">
-<b>EDUCATION</b>
+<b>👨‍🎓EDUCATION</b>
 </h3> 
 
 <!--Sub-section: AUST-->
@@ -91,7 +91,7 @@ Bachelor of Science in Computer Science & Engineering
 
 - ⚡ Fun fact, **I fancy playing games and watching horror thriller films**
 
-<h3 align="left">CONNECT WITH ME:</h3>
+<h3 align="left">📨CONNECT WITH ME:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sadman-alvee-1bb464249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadman-alvee-1bb464249" height="30" width="40" /></a>
 <a href="https://kaggle.com/pointer2alvee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pointer2alvee" height="30" width="40" /></a>
@@ -104,7 +104,7 @@ Bachelor of Science in Computer Science & Engineering
 
 <p align="left"> 
 <!--Sub-section: LANGUAGES-->
-<h3 align="left"> TECH-STACK : LANGUAGES | FRAMEWORKS | DEV-TOOLS : </h3>
+<h3 align="left"> 💻TECH-STACK - LANGUAGES | FRAMEWORKS | DEV-TOOLS : </h3>
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
