@@ -6,14 +6,13 @@ I have completed my Bachelor of Science in Computer Science and Engineering from
 
 <h3><b>Experiences</b></h3> 
 
-<h5> - proyogLab<sup>TM</sup></h5>
+<h4> - proyogLab<sup>TM</sup></h4> || Nov,23 ~ Present | (on-site) Dhaka, Bangladesh  <br>
 Founder | Software Engineer <br>
-Nov,23 ~ Present | (on-site) Dhaka, Bangladesh <br>
 I am currently working as a SWE for maintaining my company proyogLab <br>
   
-<h5> - Octagon Danışmanlık</h5>
+<h4> - Octagon Danışmanlık</h4> || Research-&-Development Programmer (Part-Time) <br>
 April,23 ~ Feb,2024 | (remote) Istanbul, Turkiye <br>
-Research-&-Development Programmer (Part-Time) <br>
+ <br>
 Previously I had the oppurtunity to work as an R&D programmer handling diversified task of ML and Embedded-SW at Octagon 
 Danışmanlık, a startup based in Istanbul, Turkiye.
 </p>
