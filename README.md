@@ -96,7 +96,7 @@ Bachelor of Science in Computer Science & Engineering
 
 <p align="left"> 
 <!--Sub-section: LANGUAGES-->
-<h5 align="left"> LANGUAGES : </h5>
+<h4 align="left"> LANGUAGES : </h4>
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -109,7 +109,7 @@ Bachelor of Science in Computer Science & Engineering
 
 <br>
 <!--Sub-section: LIBRARIES-FRAMEWORKS -->
-<h5 align="left"> LIBRARIES-FRAMEWORKS : </h5>
+<h4 align="left"> LIBRARIES-FRAMEWORKS : </h4>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
@@ -122,15 +122,13 @@ Bachelor of Science in Computer Science & Engineering
 
 
 
-<br>
 <!--Sub-section: DATABASE-->
-<h5 align="left"> DATABASE : </h5>
+<h4 align="left"> DATABASE : </h4>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 
 
-<br>
 <!--Sub-section: DEV-TOOLS-->
-<h5 align="left"> DEV-TOOLS: </h5>
+<h4 align="left"> DEV-TOOLS: </h4>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
