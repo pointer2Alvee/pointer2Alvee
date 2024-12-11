@@ -16,10 +16,9 @@ I have completed my Bachelor of Science in Computer Science and Engineering from
 <b><i style="font-size:1.70vw ; margin-top:.5vw; color:#3E3B3A">
 Founder | Software Engineer 
 </i></b><br> 
-Dhaka, Bangladesh (On-site) | Mar,2023 ~ Present<br>
+Dhaka, Bangladesh (On-site) | Mar,2023 ~ Present <br>
 <span style="display: block; margin-top: 0.55vw; font-size: 1.65vw;">
-    I am currently working as a SWE to enhance & develop features of "alokshobdo" Programmable Learning Device, an original Learning-Tool from proyogLab. 
-	I am also looking forward to develop a.i tools and softwares from my company
+    I am currently working as a SWE to enhance & develop features of "alokshobdo" Programmable Learning Device, an original Learning-Tool from proyogLab. I am also looking forward to develop a.i tools and softwares from my company.
 </span>
 <br>
 
@@ -27,11 +26,10 @@ Dhaka, Bangladesh (On-site) | Mar,2023 ~ Present<br>
 <!--Sub-section: Octagon-->
 <b style="font-size:1.95vw ; margin-bottom:.5vw">● Octagon Danışmanlık</b> <br> 
 <b><i style="font-size:1.70vw ; margin-top:.5vw; color:#3E3B3A">Research-&-Development Programmer (Part-Time) </i></b><br> 
-Istanbul, Turkiye (Remote) | April,2023 ~ Feb,2024
+Istanbul, Turkiye (Remote) | April,2023 ~ Feb,2024 <br>
 
 <span style="display: block; margin-top: 0.55vw; font-size: 1.65vw;">
-    I had the oppurtunity to work as an R&D-Programmer for Octagon Danışmanlık, a startup based in Istanbul, Turkiye. 
-	I was assigned with a diversified task of enhancing ML-algorithms for embedded platforms and Developing Embedded-Softwares for BLE and arduino Systems
+I had the oppurtunity to work as an R&D-Programmer for Octagon Danışmanlık, a startup based in Istanbul, Turkiye. I was assigned with a diversified task of enhancing ML-algorithms for embedded platforms and Developing Embedded-Softwares for BLE and arduino Systems.
 </span>
 <br>
 
