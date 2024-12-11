@@ -101,10 +101,12 @@ Bachelor of Science in Computer Science & Engineering
   </tr>
 </table>
 
-
+<!--
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pointer2alvee&show_icons=true&locale=en&layout=compact" alt="pointer2alvee" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pointer2alvee&show_icons=true&locale=en" alt="pointer2alvee" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pointer2alvee&" alt="pointer2alvee" /></p>
+
+-->
