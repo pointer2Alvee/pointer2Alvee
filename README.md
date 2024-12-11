@@ -27,7 +27,7 @@ Dhaka, Bangladesh (On-site) | Mar,2023 ~ Present<br>
 <!--Sub-section: Octagon-->
 <b style="font-size:1.95vw ; margin-bottom:.5vw">● Octagon Danışmanlık</b> <br> 
 <b><i style="font-size:1.70vw ; margin-top:.5vw; color:#3E3B3A">Research-&-Development Programmer (Part-Time) </i></b><br> 
-Istanbul, Turkiye (Remote) | April,2023 ~ Feb,2024 <br>
+Istanbul, Turkiye (Remote) | April,2023 ~ Feb,2024
 
 <span style="display: block; margin-top: 0.55vw; font-size: 1.65vw;">
     I had the oppurtunity to work as an R&D-Programmer for Octagon Danışmanlık, a startup based in Istanbul, Turkiye. 
@@ -35,10 +35,11 @@ Istanbul, Turkiye (Remote) | April,2023 ~ Feb,2024 <br>
 </span>
 <br>
 
+
 <!--Sub-section: impedancePlus-->
 <b style="font-size:1.95vw ; margin-bottom:.5vw">● impedancePlus</b> <br> 
 <b><i style="font-size:1.70vw ; margin-top:.5vw; color:#3E3B3A">Founder | Embedded Systems Developer</i></b><br> 
-Dhaka, Bangladesh (On-site) | July,2020 ~ Aug,2023 <br>
+Dhaka, Bangladesh (On-site) | July,2020 ~ Aug,2023 
 
 <span style="display: block; margin-top: 0.55vw; font-size: 1.65vw;">
     Built an ecom business impedancePlus, focused on selling electronic-components/tools-equipments and also providing
@@ -59,7 +60,7 @@ Dhaka, Bangladesh (On-site) | July,2020 ~ Aug,2023 <br>
 
 <b style="font-size:1.95vw ; margin-bottom:.5vw">●  Ahsanullah University of Science and Technology</b> <br> 
 <b><i style="font-size:1.70vw ; margin-top:.5vw; color:#3E3B3A"> Bachelor of Science in Computer Science & Engineering</i></b><br> 
-Dhaka, Bangladesh |  Jan,2019 ~ June,2023 <br>
+Dhaka, Bangladesh |  Jan,2019 ~ June,2023 
 
 <span style="display: block; margin-top: 0.55vw; font-size: 1.65vw;">
     I have completed my Bachelor of Science in Computer Science & Engineering from AUST, Dhaka, Bangladesh
