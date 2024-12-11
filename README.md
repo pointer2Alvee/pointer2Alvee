@@ -59,9 +59,9 @@ Built an ecom business impedancePlus, focused on selling electronic-components/t
 <b><i style="font-size:1.70vw ; margin-top:.5vw; color:#3E3B3A">
 Bachelor of Science in Computer Science & Engineering
 </i></b><br> 
-Dhaka, Bangladesh |  Jan,2019 ~ June,2023  <br>
+Dhaka, Bangladesh |  Jan, 2019 ~ June, 2023  <br>
 <span style="display: block; margin-top: 0.55vw; font-size: 1.65vw;">
-I have completed my Bachelor of Science in Computer Science & Engineering from AUST, Dhaka, Bangladeshee.
+I have completed my Bachelor of Science in Computer Science & Engineering from AUST, Dhaka, Bangladesh.
 </span>
 <br>
 </p>
