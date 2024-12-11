@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm alvee</h1>
+<h1 align="center">Hey 👋, I'm alvee</h1>
 <h3 align="center">A passionate Machine Learning Engineer | Embedded Systems Developer from Dhaka, Bangladesh</h3>
 <p> I have completed my Bachelor of Science in Computer Science and Engineering from Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh. I am also an entrepreneur and i have two startups named impedancePlus (Ecom for providing IT equipments, tools and components) & proyogLab (IT startup). <br> 
+
 <h3><b>Experiences</b></h3>
-Previously I had the oppurtunity to work as an R&D programmer handling diversified task of ML and Embedded-SW at Octagon Danışmanlık, a startup based in Istanbul, Turkiye. I am currently working as a SWE for maintaining my company proyogLab</p><br>
+I am currently working as a SWE for maintaining my company proyogLab</p><br>
+Previously I had the oppurtunity to work as an R&D programmer handling diversified task of ML and Embedded-SW at Octagon Danışmanlık, a startup based in Istanbul, Turkiye. 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pointer2alvee&label=Profile%20views&color=0e75b6&style=flat" alt="pointer2alvee" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pointer2alvee" alt="pointer2alvee" /></a> </p>
