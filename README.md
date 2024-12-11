@@ -23,7 +23,7 @@ Founder, Software Engineer
 
 
 <!--Sub-section: Octagon Danışmanlık-->
-<b style="font-size:1.95vw ; margin-bottom:.5vw">●  Octagon Danışmanlık |Istanbul, Turkiye (Remote)</b> <br> 
+<b style="font-size:1.95vw ; margin-bottom:.5vw">●  Octagon Danışmanlık | Istanbul, Turkiye (Remote)</b> <br> 
 <b><i style="font-size:1.70vw ; margin-top:.5vw; color:#3E3B3A">
 Research-&-Development Programmer (Part-Time) 
 </i></b><br> 
@@ -34,13 +34,22 @@ Enhanced-modified ML-algorithms for embedded platforms and Developed Embedded-So
 
 
 <!--Sub-section: impedancePlus-->
-<b style="font-size:1.95vw ; margin-bottom:.5vw">● impedancePlus</b> <br> 
+<b style="font-size:1.95vw ; margin-bottom:.5vw">● impedancePlus | Dhaka, Bangladesh (On-site)</b> <br> 
 <b><i style="font-size:1.70vw ; margin-top:.5vw; color:#3E3B3A">
 Founder | Embedded Systems Developer
 </i></b><br> 
-Dhaka, Bangladesh (On-site) | July,2020 ~ Aug,2023 <br>
 <span style="display: block; margin-top: 0.55vw; font-size: 1.65vw;">
-Built an ecom business impedancePlus, focused on selling electronic-components/tools-equipments and also providing prototyping service on Embedded/Robotics/IoT systems while pursuing a full time degree.
+Built an ecom business, focused on selling electronic-components/tools alongside providing embedded-prototyping-services.
+</span>
+<br>
+
+<b style="font-size:1.95vw ; margin-bottom:.5vw">● </b> <br> 
+<b><i style="font-size:1.70vw ; margin-top:.5vw; color:#3E3B3A">
+
+</i></b><br> 
+ | July,2020 ~ Aug,2023 <br>
+<span style="display: block; margin-top: 0.55vw; font-size: 1.65vw;">
+
 </span>
 <br>
 
