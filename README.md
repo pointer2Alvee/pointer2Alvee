@@ -43,18 +43,6 @@ Built an ecom business, focused on selling electronic-components/tools alongside
 </span>
 <br>
 
-<b style="font-size:1.95vw ; margin-bottom:.5vw">● </b> <br> 
-<b><i style="font-size:1.70vw ; margin-top:.5vw; color:#3E3B3A">
-
-</i></b><br> 
- | July,2020 ~ Aug,2023 <br>
-<span style="display: block; margin-top: 0.55vw; font-size: 1.65vw;">
-
-</span>
-<br>
-
-
-
 <!--Section: EDUCATION-->
 
 <p>
@@ -63,15 +51,10 @@ Built an ecom business, focused on selling electronic-components/tools alongside
 </h3> 
 
 <!--Sub-section: AUST-->
-<b style="font-size:1.95vw ; margin-bottom:.5vw">● Ahsanullah University of Science and Technology</b> <br> 
+<b style="font-size:1.95vw ; margin-bottom:.5vw">● Ahsanullah University of Science and Technology | Dhaka, Bangladesh </b> <br> 
 <b><i style="font-size:1.70vw ; margin-top:.5vw; color:#3E3B3A">
 Bachelor of Science in Computer Science & Engineering
-</i></b><br> 
-Dhaka, Bangladesh |  Jan,2019 ~ June,2023  <br>
-<span style="display: block; margin-top: 0.55vw; font-size: 1.65vw;">
-I have completed my Bachelor of Science in Computer Science & Engineering from AUST, Dhaka, Bangladesh.
-</span>
-<br>
+</i></b>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pointer2alvee&label=Profile%20views&color=0e75b6&style=flat" alt="pointer2alvee" /> </p>
