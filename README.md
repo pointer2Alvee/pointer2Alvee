@@ -70,19 +70,17 @@ I have completed my Bachelor of Science in Computer Science & Engineering from A
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pointer2alvee" alt="pointer2alvee" /></a> </p>
 
-- 🔭 I’m currently working on [llm-tv-series-analysis](https://github.com/pointer2Alvee/llm-tv-series-analysis.git)
+- 🔭 I’m currently working on [LLM based TV-series Analysis System](https://github.com/pointer2Alvee/llm-tv-series-analysis.git)
 
-- 🌱 I’m currently learning **Deep Learning, LLMs and Computer Vision**
+- 🌱 I’m currently diving deeper into **Deep Learning, LLMs and Computer Vision**
 
 - 👯 I’m looking to collaborate on **LLMs, Computer Vision and generative ai**
 
-- 👨‍💻 All of my projects are available at [https://github.com/pointer2Alvee](https://github.com/pointer2Alvee)
-
-- 💬 Ask me about **DSA, ML/DL**
+- 👨‍💻 All of my projects are available at : [pointer2Alvee](https://github.com/pointer2Alvee)
 
 - 📫 How to reach me **pointer2alvee@gmail.com**
 
-- ⚡ Fun fact **I fancy playing games and watching horror thriller films**
+- ⚡ Fun fact, **I fancy playing games and watching horror thriller films**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
