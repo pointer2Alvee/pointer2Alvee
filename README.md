@@ -3,7 +3,8 @@
 <p> 
 I have completed my Bachelor of Science in Computer Science and Engineering from Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh. I am also an entrepreneur and i have two startups named impedancePlus (Ecom for providing IT equipments, tools and components) & proyogLab (IT startup). 
 <br> 
-
+</p>
+<p>
 <h3><b>Experiences</b></h3> 
 
 <h5> ● proyogLab<sup>TM</sup> <p> Founder | Software Engineer <br> 
