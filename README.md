@@ -23,15 +23,15 @@ Founder, Software Engineer
 
 
 <!--Sub-section: Octagon Danışmanlık-->
-<b style="font-size:1.95vw ; margin-bottom:.5vw">●  Octagon Danışmanlık</b> <br> 
+<b style="font-size:1.95vw ; margin-bottom:.5vw">●  Octagon Danışmanlık |Istanbul, Turkiye (Remote)</b> <br> 
 <b><i style="font-size:1.70vw ; margin-top:.5vw; color:#3E3B3A">
 Research-&-Development Programmer (Part-Time) 
 </i></b><br> 
-Istanbul, Turkiye (Remote) | April,2023 ~ Feb,2024 <br>
 <span style="display: block; margin-top: 0.55vw; font-size: 1.65vw;">
-I had the oppurtunity to work as an R&D-Programmer for Octagon Danışmanlık, a startup based in Istanbul, Turkiye. I was assigned with a diversified task of enhancing ML-algorithms for embedded platforms and Developing Embedded-Softwares for BLE and arduino Systems.
+Enhanced-modified ML-algorithms for embedded platforms and Developed Embedded-Softwares for BLE and arduino Systems.
 </span>
 <br>
+
 
 <!--Sub-section: impedancePlus-->
 <b style="font-size:1.95vw ; margin-bottom:.5vw">● impedancePlus</b> <br> 
