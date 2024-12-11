@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm alvee</h1>
 <h3 align="center">A passionate Machine Learning Engineer | Embedded Systems Developer from Dhaka, Bangladesh</h3>
 <p> 
-I have completed my Bachelor of Science in Computer Science and Engineering from Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh. I am also an entrepreneur and i have two startups named impedancePlus (Ecom for providing IT equipments, tools and components) & proyogLab (IT startup). 
+I have completed my Bachelor of Science in Computer Science and Engineering from Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh. I am also an entrepreneur and i have two startups named impedancePlus (Ecom for providing IT equipments, tools and components) & proyogLab (IT startup). I am very enthusiastic and passionate about Aritificial Intelligence, Robotics and Business.  
 <br> 
 </p>
 
