@@ -6,8 +6,9 @@ I have completed my Bachelor of Science in Computer Science and Engineering from
 
 <h3><b>Experiences</b></h3> 
 
-<h4> - proyogLab<sup>TM</sup> <p>|| Nov,23 ~ Present | (on-site) Dhaka, Bangladesh  <br></p> </h4> 
-Founder | Software Engineer <br>
+<h4> ● proyogLab<sup>TM</sup> <p> Founder | Software Engineer <br> 
+(on-site) Dhaka, Bangladesh | Nov,23 ~ Present <br></p> 
+</h4> 
 I am currently working as a SWE for maintaining my company proyogLab <br>
   
 <h4> - Octagon Danışmanlık</h4> || Research-&-Development Programmer (Part-Time) <br>
