@@ -22,7 +22,8 @@ Dhaka, Bangladesh (On-site) | Mar,2023 ~ Present <br>
 </span>
 <br>
 
-<!--Sub-section: proyogLab-->
+
+<!--Sub-section: Octagon Danışmanlık-->
 <b style="font-size:1.95vw ; margin-bottom:.5vw">●  Octagon Danışmanlık</b> <br> 
 <b><i style="font-size:1.70vw ; margin-top:.5vw; color:#3E3B3A">
 Research-&-Development Programmer (Part-Time) 
@@ -35,15 +36,15 @@ I had the oppurtunity to work as an R&D-Programmer for Octagon Danışmanlık, a
 
 <!--Sub-section: impedancePlus-->
 <b style="font-size:1.95vw ; margin-bottom:.5vw">● impedancePlus</b> <br> 
-<b><i style="font-size:1.70vw ; margin-top:.5vw; color:#3E3B3A">Founder | Embedded Systems Developer</i></b><br> 
-Dhaka, Bangladesh (On-site) | July,2020 ~ Aug,2023 
-
+<b><i style="font-size:1.70vw ; margin-top:.5vw; color:#3E3B3A">
+Founder | Embedded Systems Developer
+</i></b><br> 
+Dhaka, Bangladesh (On-site) | July,2020 ~ Aug,2023 <br>
 <span style="display: block; margin-top: 0.55vw; font-size: 1.65vw;">
-    Built an ecom business impedancePlus, focused on selling electronic-components/tools-equipments and also providing
- prototyping service on Embedded/Robotics/IoT systems while pursuing a full time degree.
+Built an ecom business impedancePlus, focused on selling electronic-components/tools-equipments and also providing prototyping service on Embedded/Robotics/IoT systems while pursuing a full time degree.
 </span>
 <br>
-</p>
+
 
 
 <!--Section: EDUCATION-->
@@ -54,16 +55,17 @@ Dhaka, Bangladesh (On-site) | July,2020 ~ Aug,2023
 </h3> 
 
 <!--Sub-section: AUST-->
-
-<b style="font-size:1.95vw ; margin-bottom:.5vw">●  Ahsanullah University of Science and Technology</b> <br> 
-<b><i style="font-size:1.70vw ; margin-top:.5vw; color:#3E3B3A"> Bachelor of Science in Computer Science & Engineering</i></b><br> 
-Dhaka, Bangladesh |  Jan,2019 ~ June,2023 
-
+<b style="font-size:1.95vw ; margin-bottom:.5vw">● Ahsanullah University of Science and Technology</b> <br> 
+<b><i style="font-size:1.70vw ; margin-top:.5vw; color:#3E3B3A">
+Bachelor of Science in Computer Science & Engineering
+</i></b><br> 
+Dhaka, Bangladesh |  Jan,2019 ~ June,2023  <br>
 <span style="display: block; margin-top: 0.55vw; font-size: 1.65vw;">
-    I have completed my Bachelor of Science in Computer Science & Engineering from AUST, Dhaka, Bangladesh
+I have completed my Bachelor of Science in Computer Science & Engineering from AUST, Dhaka, Bangladeshee.
 </span>
 <br>
 </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pointer2alvee&label=Profile%20views&color=0e75b6&style=flat" alt="pointer2alvee" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pointer2alvee" alt="pointer2alvee" /></a> </p>
