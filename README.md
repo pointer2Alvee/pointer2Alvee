@@ -78,7 +78,11 @@ I have completed my Bachelor of Science in Computer Science & Engineering from A
 
 - 👨‍💻 All of my projects are available at : [pointer2Alvee](https://github.com/pointer2Alvee)
 
-- 📫 How to reach me **pointer2alvee@gmail.com**
+- 📩 How to reach me **pointer2alvee@gmail.com**
+
+- 📄 Here's my resume, [alvee]()
+  
+- 🌐 My portfolio, [iamAlvee]()
 
 - ⚡ Fun fact, **I fancy playing games and watching horror thriller films**
 
