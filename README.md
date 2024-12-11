@@ -5,6 +5,18 @@ I have completed my Bachelor of Science in Computer Science and Engineering from
 <br> 
 </p>
 
+<p>
+<h3 style="margin-top: 0.5vw; margin-bottom: 1.5vw;">
+<b>SKILLS</b>
+</h3> 
+
+<!--Sub-section: proyogLab-->
+<b style="font-size:1.95vw ; margin-bottom:.5vw"> ● ML/DL  ● DSA  ● Python  ● PyTorch </b> <br> 
+
+<br>
+   
+</p>
+
 
 <p>
 <h3 style="margin-top: 0.5vw; margin-bottom: 1.5vw;">
@@ -91,8 +103,7 @@ Bachelor of Science in Computer Science & Engineering
 </p>
 
 
-<!--Section: SKILLS STARTS-->
-<h3 align="left">SKILLS</h3>
+<!--Section: TECH-STACK SECTION STARTS-->
 
 <p align="left"> 
 <!--Sub-section: LANGUAGES-->
@@ -128,12 +139,14 @@ Bachelor of Science in Computer Science & Engineering
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/> </a>
 <a href="https://fritzing.org/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/fritzing-icon-2048x2048-t2pp6p4q.png" alt="Fritzing" width="40" height="40"/> </a>
 
-
 </p>
-<!--Section: SKILLS ENDS-->
+<!--Section: TECH-STACK SECTION ENDS-->
+
 
 <!-- A LINE --> 
 <hr style="width:50%;text-align:left;margin-left:0"> 
+
+
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pointer2alvee&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 40%;"/>
