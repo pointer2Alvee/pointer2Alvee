@@ -4,23 +4,68 @@
 I have completed my Bachelor of Science in Computer Science and Engineering from Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh. I am also an entrepreneur and i have two startups named impedancePlus (Ecom for providing IT equipments, tools and components) & proyogLab (IT startup). 
 <br> 
 </p>
-<p>
-<h3><b>Experiences</b></h3> 
 
-<h5> <h4> ● proyogLab<sup>TM</sup> </h4> Founder | Software Engineer <br> 
-(on-site) Dhaka, Bangladesh | Nov,23 ~ Present <br></p> 
-</h5> 
-I am currently working as a SWE for maintaining my company proyogLab <br>
-  
-<h4> - Octagon Danışmanlık</h4> || Research-&-Development Programmer (Part-Time) <br>
-April,23 ~ Feb,2024 | (remote) Istanbul, Turkiye <br>
- <br>
-Previously I had the oppurtunity to work as an R&D programmer handling diversified task of ML and Embedded-SW at Octagon 
-Danışmanlık, a startup based in Istanbul, Turkiye.
+
+<p>
+<h3 style="margin-top: 0.5vw; margin-bottom: 1.5vw;">
+<b>EXPERIENCES</b>
+</h3> 
+
+<!--Sub-section: proyogLab-->
+<b style="font-size:1.95vw ; margin-bottom:.5vw">● proyogLab<sup style="font-size:.95vw">TM</sup></b> <br> 
+<b><i style="font-size:1.70vw ; margin-top:.5vw; color:#3E3B3A">
+Founder | Software Engineer 
+</i></b><br> 
+Dhaka, Bangladesh (On-site) | Mar,2023 ~ Present<br>
+<span style="display: block; margin-top: 0.55vw; font-size: 1.65vw;">
+    I am currently working as a SWE to enhance & develop features of "alokshobdo" Programmable Learning Device, an original Learning-Tool from proyogLab. 
+	I am also looking forward to develop a.i tools and softwares from my company
+</span>
+<br>
+
+
+<!--Sub-section: Octagon-->
+<b style="font-size:1.95vw ; margin-bottom:.5vw">● Octagon Danışmanlık</b> <br> 
+<b><i style="font-size:1.70vw ; margin-top:.5vw; color:#3E3B3A">Research-&-Development Programmer (Part-Time) </i></b><br> 
+Istanbul, Turkiye (Remote) | April,2023 ~ Feb,2024 <br>
+
+<span style="display: block; margin-top: 0.55vw; font-size: 1.65vw;">
+    I had the oppurtunity to work as an R&D-Programmer for Octagon Danışmanlık, a startup based in Istanbul, Turkiye. 
+	I was assigned with a diversified task of enhancing ML-algorithms for embedded platforms and Developing Embedded-Softwares for BLE and arduino Systems
+</span>
+<br>
+
+<!--Sub-section: impedancePlus-->
+<b style="font-size:1.95vw ; margin-bottom:.5vw">● impedancePlus</b> <br> 
+<b><i style="font-size:1.70vw ; margin-top:.5vw; color:#3E3B3A">Founder | Embedded Systems Developer</i></b><br> 
+Dhaka, Bangladesh (On-site) | July,2020 ~ Aug,2023 <br>
+
+<span style="display: block; margin-top: 0.55vw; font-size: 1.65vw;">
+    Built an ecom business impedancePlus, focused on selling electronic-components/tools-equipments and also providing
+ prototyping service on Embedded/Robotics/IoT systems while pursuing a full time degree.
+</span>
+<br>
 </p>
 
-<h3><b>Education</b></h3> 
 
+<!--Section: EDUCATION-->
+
+<p>
+<h3 style="margin-top: 0.5vw; margin-bottom: 1.5vw;">
+<b>EDUCATION</b>
+</h3> 
+
+<!--Sub-section: AUST-->
+
+<b style="font-size:1.95vw ; margin-bottom:.5vw">●  Ahsanullah University of Science and Technology</b> <br> 
+<b><i style="font-size:1.70vw ; margin-top:.5vw; color:#3E3B3A"> Bachelor of Science in Computer Science & Engineering</i></b><br> 
+Dhaka, Bangladesh |  Jan,2019 ~ June,2023 <br>
+
+<span style="display: block; margin-top: 0.55vw; font-size: 1.65vw;">
+    I have completed my Bachelor of Science in Computer Science & Engineering from AUST, Dhaka, Bangladesh
+</span>
+<br>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pointer2alvee&label=Profile%20views&color=0e75b6&style=flat" alt="pointer2alvee" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pointer2alvee" alt="pointer2alvee" /></a> </p>
