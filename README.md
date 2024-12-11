@@ -100,7 +100,7 @@ Bachelor of Science in Computer Science & Engineering
 
 
 <div>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pointer2alvee&" alt="Streak Stats" style="width: 100%;"/> 
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pointer2alvee&" alt="Streak Stats" style="width: 93%;"/> 
 </div>
   
 
