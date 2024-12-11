@@ -12,13 +12,12 @@ I have completed my Bachelor of Science in Computer Science and Engineering from
 </h3> 
 
 <!--Sub-section: proyogLab-->
-<b style="font-size:1.95vw ; margin-bottom:.5vw">● proyogLab<sup style="font-size:.95vw">TM</sup></b> <br> 
+<b style="font-size:1.95vw ; margin-bottom:.5vw">● proyogLab<sup style="font-size:.95vw">TM</sup> | Dhaka, Bangladesh (On-site)</b> <br> 
 <b><i style="font-size:1.70vw ; margin-top:.5vw; color:#3E3B3A">
 Founder | Software Engineer 
 </i></b><br> 
-Dhaka, Bangladesh (On-site) | Mar,2023 ~ Present <br>
 <span style="display: block; margin-top: 0.55vw; font-size: 1.65vw;">
-    I am currently working as a SWE to enhance & develop features of "alokshobdo" Programmable Learning Device, an original Learning-Tool from proyogLab. I am also looking forward to develop a.i tools,softwares, Saas for my company.
+   Developing features for "alokshobdo" PLD. Very optimistic to develop a.i systems, R&D tools-softwares, Saas for proyogLab.
 </span>
 <br>
 
