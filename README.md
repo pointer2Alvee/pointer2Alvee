@@ -1,10 +1,25 @@
 <h1 align="center">Hey 👋, I'm alvee</h1>
 <h3 align="center">A passionate Machine Learning Engineer | Embedded Systems Developer from Dhaka, Bangladesh</h3>
-<p> I have completed my Bachelor of Science in Computer Science and Engineering from Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh. I am also an entrepreneur and i have two startups named impedancePlus (Ecom for providing IT equipments, tools and components) & proyogLab (IT startup). <br> 
+<p> 
+I have completed my Bachelor of Science in Computer Science and Engineering from Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh. I am also an entrepreneur and i have two startups named impedancePlus (Ecom for providing IT equipments, tools and components) & proyogLab (IT startup). 
+<br> </p>
 
-<b> <h2>E</h2> <h3>xperiences</h3> </b>
-I am currently working as a SWE for maintaining my company proyogLab<br>
-Previously I had the oppurtunity to work as an R&D programmer handling diversified task of ML and Embedded-SW at Octagon Danışmanlık, a startup based in Istanbul, Turkiye.</p>
+<h3><b>Experiences</b></h3> 
+<p>
+- <h4>proyogLab<sup>TM</sup></h4> <br>
+Founder | Software Engineer <br>
+Nov,23 ~ Present | (on-site) Dhaka, Bangladesh
+I am currently working as a SWE for maintaining my company proyogLab <br>
+  
+- <h4>Octagon Danışmanlık</h4> <br>
+April,23 ~ Feb,2024 | (remote) Istanbul, Turkiye
+Research-&-Development Programmer (Part-Time) <br>
+Previously I had the oppurtunity to work as an R&D programmer handling diversified task of ML and Embedded-SW at Octagon 
+Danışmanlık, a startup based in Istanbul, Turkiye.
+</p>
+
+<h3><b>Education</b></h3> 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pointer2alvee&label=Profile%20views&color=0e75b6&style=flat" alt="pointer2alvee" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pointer2alvee" alt="pointer2alvee" /></a> </p>
