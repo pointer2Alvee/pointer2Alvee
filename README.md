@@ -85,7 +85,7 @@ Bachelor of Science in Computer Science & Engineering
 
 - 📩 Reach me : **pointer2alvee@gmail.com**
 
-- 📄 Here's my resume : [alvee](https://drive.google.com/file/d/1ZZsZRxMNp02ORyHuto-f05CVqZqLYBEh/view?usp=sharing)
+- 📄 Here's my resume : [alvee](https://drive.google.com/file/d/1euQk2gmw9HYuFZDYA0IQ97khfoNcWRgZ/view?usp=sharing)
   
 - 🌐 Have a look at my portfolio : [iamAlvee]()
 
