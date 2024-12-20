@@ -1,7 +1,7 @@
 <h1 align="center">Greetings 👋, I'm alvee</h1>
 <h3 align="center">A passionate Machine Learning Engineer | Embedded Systems Developer from Dhaka, Bangladesh</h3>
 <p> 
-I have completed my Bachelor of Science in Computer Science and Engineering from Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh. I am also an entrepreneur and i have two startups named impedancePlus (Ecom for providing IT equipments, tools and components) & proyogLab (IT startup). I am very enthusiastic and passionate about Aritificial Intelligence, Robotics and Business.  
+I have completed my Bachelor of Science in Computer Science and Engineering from Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh. I am also an entrepreneur and i have two startups named impedancePlus (an Ecom business primarily providing IT, Robotics and IoT equipments, tools and components) & proyogLab (an IT startup, currently focusing on developing R&D equipments, AI, software & electronics). I am very enthusiastic and passionate about Aritificial Intelligence, Embedded Systems, Robotics and Business.  
 <br> 
 </p>
 
@@ -26,7 +26,7 @@ I have completed my Bachelor of Science in Computer Science and Engineering from
 Founder, Software Engineer 
 </i></b><br> 
 <span style="display: block; margin-top: 0.55vw; font-size: 1.65vw;">
-   Developing features for "alokshobdo" PLD. Optimistic to develop a.i systems, R&D tools-softwares, Saas for proyogLab.
+Initiated an IT-startup and orchestrated the development of "alokShobdo" (PLD,Book). Currently upgrading it's features and optimistic about developing R&D tools, AI systems, softwares, electronics and SaaS solutions in near future.
 </span>
 <br>
 
@@ -37,7 +37,7 @@ Founder, Software Engineer
 Research-&-Development Programmer (Part-Time) 
 </i></b><br> 
 <span style="display: block; margin-top: 0.55vw; font-size: 1.65vw;">
-Enhanced-modified ML-algorithms for embedded platforms and Developed Embedded-Softwares for BLE and arduino Systems.
+Developed and tested Face Detection and Recognition pipelines with ML models for prototype applications, optimized for embedded platforms; Developed Embedded Systems; Compiled basic BLE firmware for ESP32 and Nordic SoCs
 </span>
 <br>
 
@@ -48,7 +48,7 @@ Enhanced-modified ML-algorithms for embedded platforms and Developed Embedded-So
 Founder | Embedded Systems Developer
 </i></b><br> 
 <span style="display: block; margin-top: 0.55vw; font-size: 1.65vw;">
-Built an ecom business, focused on selling electronic-components/tools alongside providing embedded-prototyping-services.
+Founded and currently operating an ecom business focused on selling electronics/robotics equipment and providing embedded prototyping services.
 </span>
 <br>
 </p>
@@ -85,7 +85,7 @@ Bachelor of Science in Computer Science & Engineering
 
 - 📩 Reach me : **pointer2alvee@gmail.com**
 
-- 📄 Here's my resume : [alvee](https://drive.google.com/file/d/1ULg5KvaKygA5aqdOIa2UI7_jXhTQ3T-K/view?usp=drive_link)
+- 📄 Here's my resume : [alvee](https://drive.google.com/file/d/1ZZsZRxMNp02ORyHuto-f05CVqZqLYBEh/view?usp=sharing)
   
 - 🌐 Have a look at my portfolio : [iamAlvee]()
 
