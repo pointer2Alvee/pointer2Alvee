@@ -11,7 +11,7 @@ I have completed my Bachelor of Science in Computer Science and Engineering from
 </h3> 
 
 <!--Sub-section: proyogLab-->
-<b style="font-size:1.95vw ; margin-bottom:.5vw"> ● ML/DL Algorithms  ● Embedded-Sys Development  ● DSA  ● Python  ● PyTorch   ● ML Tech-Stack </b> <br> 
+<b style="font-size:1.95vw ; margin-bottom:.5vw"> ● ML/DL ● Embedded-Systems Development ● Circuit Design ● DSA  ● Python ● PyTorch  ● ML Tech-Stack </b> <br> 
 </p>
 
 
