@@ -150,12 +150,10 @@ Bachelor of Science in Computer Science & Engineering
   <img src="https://github-readme-stats.vercel.app/api?username=pointer2alvee&show_icons=true&locale=en" alt="GitHub Stats" style="width: 53%;"/>
 </div>
 
-
 <div>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pointer2alvee&" alt="Streak Stats" style="width: 94%;"/> 
 </div>
   
-
 
 <!--
 
