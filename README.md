@@ -26,7 +26,7 @@ I have completed my Bachelor of Science in Computer Science and Engineering from
 Founder, Software Engineer 
 </i></b><br> 
 <span style="display: block; margin-top: 0.55vw; font-size: 1.65vw;">
-Launched and managing an IT-startup named proyogLab<sup style="font-size:.95vw">TM</sup>. Orchestrated the development of "[alokShobdo](https://www.facebook.com/proyogLab/posts/pfbid02xmjjn5HaQKdGHjGnwAJJNvky5Nu1NXyma7JE5U4XFor33UWHRvRzh5tGPurNigzfl)" (PLD & Book). Currently upgrading it's features and optimistic about developing R&D tools, AI systems, softwares, electronics and SaaS solutions in near future.
+Launched and managing an IT-startup named [proyogLab<sup style="font-size:.95vw">TM</sup>](https://www.facebook.com/proyogLab). Orchestrated the development of "[alokShobdo](https://www.facebook.com/proyogLab/posts/pfbid02xmjjn5HaQKdGHjGnwAJJNvky5Nu1NXyma7JE5U4XFor33UWHRvRzh5tGPurNigzfl)" (PLD & Book). Currently upgrading it's features and optimistic about developing R&D tools, AI systems, softwares, electronics and SaaS solutions in near future.
 </span>
 <br>
 
@@ -48,7 +48,7 @@ Developed and tested Face Detection and Recognition pipelines with ML models for
 Founder | Embedded Systems Developer
 </i></b><br> 
 <span style="display: block; margin-top: 0.55vw; font-size: 1.65vw;">
-Founded and currently operating an ecom business focused on selling electronics/robotics equipment and providing embedded prototyping services.
+Founded and currently operating an ecom business named [impedancePlus](https://www.facebook.com/impedancePlus) focused on selling electronics/robotics equipment and providing embedded prototyping services.
 </span>
 <br>
 </p>
