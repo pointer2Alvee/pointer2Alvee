@@ -37,7 +37,7 @@ Launched and managing an IT-startup named [proyogLab<sup style="font-size:.95vw"
 Research-&-Development Programmer (Part-Time) 
 </i></b><br> 
 <span style="display: block; margin-top: 0.55vw; font-size: 1.65vw;">
-Developed and tested Face Detection and Recognition pipelines with ML models for prototype applications, optimized for embedded platforms; Developed Arduino-based Embedded System prototypes; Compiled basic BLE firmware for ESP32 and Nordic SoCs.
+Handled diverse tasks in ML and Embedded Systems Development at a startup Turkish Startup named Octagon Danışmanlık. Developed and tested Face Detection and Recognition pipelines with ML models for prototype applications, optimized for embedded platforms; Developed Arduino-based Embedded System prototypes; Compiled basic BLE firmware for ESP32 and Nordic SoCs.
 </span>
 <br>
 
