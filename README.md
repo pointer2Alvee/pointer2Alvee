@@ -43,6 +43,9 @@ I am deeply passionate about AI, Embedded Systems, Robotics, IoT, Electronics, C
    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a>
    <!-- C++ -->
    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a>
+   
+<!--Sub-section: LIBRARIES-FRAMEWORKS -->
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="30" height="30"/> </a>
 
   
 <!--
@@ -57,8 +60,6 @@ I am deeply passionate about AI, Embedded Systems, Robotics, IoT, Electronics, C
 -->
 
    
-<!--Sub-section: LIBRARIES-FRAMEWORKS -->
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="30" height="30"/> </a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="30" height="30"/> </a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="30" height="30"/> </a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img class="img-size" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/> </a>
