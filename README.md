@@ -18,7 +18,7 @@ I am deeply passionate about AI systems, Embedded Systems, Robotics, IoT, Electr
 <!--section: PROFICIENT IN -->
 <p>
 <h3 style="margin-top: 0.5vw; margin-bottom: 1.3vw;">
-<b>🎯 Proficient in : </b>
+<b>🎯 I'm proficient in : </b>
 </h3> 
 <b style="font-size:1.95vw ; margin-bottom:.5vw"> ● Machine Learning ● Deep Learning ● Embedded Systems Development ● Electronics & Circuitry ● DSA </b> <br> 
 </p>
@@ -26,7 +26,7 @@ I am deeply passionate about AI systems, Embedded Systems, Robotics, IoT, Electr
 <!------------------------------------------section: Tech Stack----------------------------->
 <p>
 <h3 style="margin-top: 0.5vw; margin-bottom: 1.3vw;">
-<b>👨‍💻 My Technology Stack : </b>
+<b>👨‍💻 Techs i work with : </b>
 </h3> 
 <!--Section: TECH-STACK SECTION STARTS-->
 
@@ -95,6 +95,18 @@ I am deeply passionate about AI systems, Embedded Systems, Robotics, IoT, Electr
 <!----------------------------------------------Section: TECH-STACK SECTION ENDS---------------------------------->
 
 
+<h3 style="margin-top: 0.5vw; margin-bottom: 1.3vw;">
+<b>📨 Connect With Me : </b>
+</h3>
+
+<p align="left">
+<a href="https://linkedin.com/in/sadman-alvee-1bb464249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadman-alvee-1bb464249" height="35" width="35" /></a>
+<a href="https://kaggle.com/pointer2alvee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pointer2alvee" height="35" width="35" /></a>
+<a href="https://www.youtube.com/@pointer2Alvee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@pointer2alvee?si=amsig7b9w9f2nvq6" height="35" width="35" /></a>
+<a href="https://www.leetcode.com/iamalvee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iamalvee" height="35" width="35" /></a>
+</p>
+
+
 <!--Currently upgrading it's features and optimistic about developing R&D tools, AI systems, softwares, electronics and SaaS solutions in near future. -->
 
 
@@ -110,6 +122,9 @@ I am deeply passionate about AI systems, Embedded Systems, Robotics, IoT, Electr
 -->
 
 
+<!-- A LINE --> 
+<hr style="width:50%;text-align:left;margin-left:0"> 
+
 - 🔭 I’m currently working on [LLM based TV-series Analysis System](https://github.com/pointer2Alvee/llm-tv-series-analysis.git)
 - 🌱 Exploring advanced concepts in **Deep Learning, LLMs, Computer Vision & ARM processors**
 - 👨‍💻 Find all my projects at : [pointer2Alvee](https://github.com/pointer2Alvee?tab=repositories)
@@ -118,23 +133,6 @@ I am deeply passionate about AI systems, Embedded Systems, Robotics, IoT, Electr
 - 🌐 Have a look at my portfolio : [iamAlvee]()
 - ⚡ Fun fact, **I fancy playing games and watching horror thriller films**
 
-<h3 style="margin-top: 0.5vw; margin-bottom: 1.3vw;">
-<b>📨 Connect With Me : </b>
-</h3>
-
-<p align="left">
-<a href="https://linkedin.com/in/sadman-alvee-1bb464249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadman-alvee-1bb464249" height="20" width="20" /></a>
-<a href="https://kaggle.com/pointer2alvee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pointer2alvee" height="20" width="20" /></a>
-<a href="https://www.youtube.com/@pointer2Alvee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@pointer2alvee?si=amsig7b9w9f2nvq6" height="20" width="20" /></a>
-<a href="https://www.leetcode.com/iamalvee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iamalvee" height="20" width="20" /></a>
-</p>
-
-
-
-
-
-<!-- A LINE --> 
-<hr style="width:50%;text-align:left;margin-left:0"> 
 
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
