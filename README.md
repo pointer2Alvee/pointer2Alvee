@@ -5,7 +5,7 @@
 
 - 💼 I Founded and currently operating an IT venture [proyogLab](https://www.facebook.com/proyogLab)<sup style="font-size:.95vw">TM</sup> alongside an E-commerce Business [impedancePlus](https://www.facebook.com/impedancePlus). [[Learn More]](resume-link) 
 
-- 🚀 Innovated and developed "[alokShobdo](https://www.facebook.com/proyogLab/posts/pfbid02xmjjn5HaQKdGHjGnwAJJNvky5Nu1NXyma7JE5U4XFor33UWHRvRzh5tGPurNigzfl)" Programmable Learning Device & published my first [Book](https://drive.google.com/file/d/1i4Z0rtyxwGFQifbad1pXf-9SkGPxkgBg/view)) for [proyogLab<sup style="font-size:.95vw">TM</sup>]. 
+- 🚀 Innovated and developed "[alokShobdo](https://www.facebook.com/proyogLab/posts/pfbid02xmjjn5HaQKdGHjGnwAJJNvky5Nu1NXyma7JE5U4XFor33UWHRvRzh5tGPurNigzfl)" Programmable Learning Device & published my first [Book](https://drive.google.com/file/d/1i4Z0rtyxwGFQifbad1pXf-9SkGPxkgBg/view)) for proyogLab™. 
 
 - 🛠️ Previously gained hands-on Experience as an R&D Programmer at the Turkish startup "Octagon Danışmanlık" [[Learn More]](resume-link)
 
