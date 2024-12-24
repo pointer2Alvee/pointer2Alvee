@@ -11,6 +11,8 @@
 I am deeply passionate about AI, Embedded Systems, Robotics, IoT, Electronics, Circuitry, Machine Learning, Entrepreneurship, IT businesses, including conglomerate ventures. The belief in "never stop learning" constantly drives my motivation.
 <br> 
 
+<!-- A LINE --> 
+<hr style="width:50%;text-align:left;margin-left:0"> 
 
 
 <!--section: PROFICIENT IN -->
@@ -21,16 +23,10 @@ I am deeply passionate about AI, Embedded Systems, Robotics, IoT, Electronics, C
 <b style="font-size:1.95vw ; margin-bottom:.5vw"> ● Machine Learning ● Deep Learning ● Embedded Systems Development ● Electronics & Circuitry ● DSA </b> <br> 
 </p>
 
-
-
-
-
-
 <!------------------------------------------section: Tech Stack----------------------------->
-
 <p>
 <h3 style="margin-top: 0.5vw; margin-bottom: 1.5vw;">
-<b>🎯 Techs i work with : </b>
+<b>🎯 My Technology stack : </b>
 </h3> 
 <!--Section: TECH-STACK SECTION STARTS-->
 
@@ -98,12 +94,6 @@ I am deeply passionate about AI, Embedded Systems, Robotics, IoT, Electronics, C
 </p>
 <!----------------------------------------------Section: TECH-STACK SECTION ENDS---------------------------------->
 
-<p>
-<h3 style="margin-top: 0.5vw; margin-bottom: 1.5vw;">
-<b>🎯 Familier with : </b>
-</h3>
-
-
 
 <!--Currently upgrading it's features and optimistic about developing R&D tools, AI systems, softwares, electronics and SaaS solutions in near future. -->
 
@@ -111,12 +101,6 @@ I am deeply passionate about AI, Embedded Systems, Robotics, IoT, Electronics, C
 <!-- Founded and currently operating an ecom business named [impedancePlus](https://www.facebook.com/impedancePlus) focused on selling electronics/robotics equipment and providing embedded prototyping services.
 -->
 
-
-
-
-
-<!-- A LINE --> 
-<hr style="width:50%;text-align:left;margin-left:0"> 
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pointer2alvee&label=Profile%20views&color=0e75b6&style=flat" alt="pointer2alvee" /> </p> -->
@@ -127,17 +111,11 @@ I am deeply passionate about AI, Embedded Systems, Robotics, IoT, Electronics, C
 
 
 - 🔭 I’m currently working on [LLM based TV-series Analysis System](https://github.com/pointer2Alvee/llm-tv-series-analysis.git)
-
 - 🌱 Exploring advanced concepts in **Deep Learning, LLMs, Computer Vision & ARM processors**
-
 - 👨‍💻 Find all my projects at : [pointer2Alvee](https://github.com/pointer2Alvee?tab=repositories)
-
 - 📩 Reach me : **pointer2alvee@gmail.com**
-
 - 📄 Here's my resume : [alvee](resume-link)
-
 - 🌐 Have a look at my portfolio : [iamAlvee]()
-
 - ⚡ Fun fact, **I fancy playing games and watching horror thriller films**
 
 <h3 align="left">📨 CONNECT WITH ME:</h3>
