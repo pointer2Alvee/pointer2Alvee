@@ -16,7 +16,6 @@ I have completed my Bachelor of Science in Computer Science and Engineering from
 <b style="font-size:1.95vw ; margin-bottom:.5vw"> ● ML/DL ● Embedded-Systems Development ● Circuit Design ● DSA  ● Python ● PyTorch  ● ML Tech-Stack </b> <br> 
 </p>
 
-
 <p>
 <h3 style="margin-top: 0.5vw; margin-bottom: 1.5vw;">
 <b>🛠️ EXPERIENCES</b>
@@ -28,11 +27,9 @@ I have completed my Bachelor of Science in Computer Science and Engineering from
 Research-&-Development Programmer (Part-Time) 
 </i></b><br> 
 <span style="display: block; margin-top: 0.55vw; font-size: 1.65vw;">
-Managed a variety of responsibilities in Machine Learning and Embedded Systems Development at a Turkish startup.[Learn More](resume-link)
+Managed a variety of responsibilities in Machine Learning and Embedded Systems Development at a Turkish startup. [[Learn More]](resume-link)
 <!--Developed and tested Face Detection and Recognition pipelines with ML models for prototype applications, optimized for embedded platforms; Developed Arduino-based Embedded System prototypes; Compiled basic BLE firmware for ESP32 and Nordic SoCs. -->
 </span>
-<br>
-
 
 <p>
 <h3 style="margin-top: 0.5vw; margin-bottom: 1.5vw;">
