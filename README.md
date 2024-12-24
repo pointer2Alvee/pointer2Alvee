@@ -3,14 +3,11 @@
 <h1 align="center">Greetings 👋, I'm alvee</h1>
 <h3 align="center">"Machine Learning Engineer | Embedded Systems Developer | Entrepreneur" from Dhaka, Bangladesh</h3>
 
-- 💼 I Founded and currently operating an IT venture [proyogLab](https://www.facebook.com/proyogLab)<sup style="font-size:.95vw">TM</sup> alongside an E-commerce Business [impedancePlus](https://www.facebook.com/impedancePlus). [[Learn More]](resume-link) 
-
-- 🚀 Innovated and developed "[alokShobdo](https://www.facebook.com/proyogLab/posts/pfbid02xmjjn5HaQKdGHjGnwAJJNvky5Nu1NXyma7JE5U4XFor33UWHRvRzh5tGPurNigzfl)" Programmable Learning Device & published my first [Book](https://drive.google.com/file/d/1i4Z0rtyxwGFQifbad1pXf-9SkGPxkgBg/view)) for proyogLab™. 
-
-- 🛠️ Previously gained hands-on Experience as an R&D Programmer at the Turkish startup "Octagon Danışmanlık" [[Learn More]](resume-link)
-
+- 💼 I Founded and currently operating an IT venture [proyogLab](https://www.facebook.com/proyogLab)™ and [impedancePlus](https://www.facebook.com/impedancePlus), an E-commerce Business. [[Learn More] (https://drive.google.com/file/d/1Z8ok-TBtL7iSyvtbKhRGcS4NL8FuXRNR/view?usp=sharing) 
+- 🚀 Innovated and developed "[alokShobdo](https://www.facebook.com/proyogLab/posts/pfbid02xmjjn5HaQKdGHjGnwAJJNvky5Nu1NXyma7JE5U4XFor33UWHRvRzh5tGPurNigzfl)" Programmable Learning Device & published my first [Book](https://drive.google.com/file/d/1i4Z0rtyxwGFQifbad1pXf-9SkGPxkgBg/view) for proyogLab™. 
+- 🛠️ Previously gained hands-on Experience as an R&D Programmer at the Turkish startup "Octagon Danışmanlık" [[Learn More] (https://drive.google.com/file/d/1Z8ok-TBtL7iSyvtbKhRGcS4NL8FuXRNR/view?usp=sharing) 
 - 👨‍🎓 Graduated with a B.Sc in CSE from AUST, Dhaka, Bangladesh.
-
+- 
 I am deeply passionate about AI, Embedded Systems, Robotics, IoT, Electronics, Circuitry, Machine Learning, Entrepreneurship, IT businesses, including conglomerate ventures. The belief in "never stop learning" constantly drives my motivation.
 <br> 
 
