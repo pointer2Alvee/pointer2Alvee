@@ -1,113 +1,35 @@
 [resume-link]: https://drive.google.com/file/d/1Z8ok-TBtL7iSyvtbKhRGcS4NL8FuXRNR/view?usp=sharing
 
 <h1 align="center">Greetings 👋, I'm alvee</h1>
-<h3 align="center">A passionate <br> Machine Learning Engineer | Embedded Systems Developer <br> from Dhaka, Bangladesh</h3>
-<p> 
-I have completed my Bachelor of Science in Computer Science and Engineering from Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh. I am also an entrepreneur and i have two startups named impedancePlus (an Ecom business primarily providing IT, Robotics and IoT equipments, tools and components) & proyogLab (an IT startup, currently focusing on developing R&D equipments, AI, software & electronics). I am very enthusiastic and passionate about Aritificial Intelligence, Embedded Systems, Robotics and Business.  
+<h3 align="center">A passionate "Machine Learning Engineer | Embedded Systems Developer | Entrepreneur" from Dhaka, Bangladesh 🇧🇩</h3>
+<p>
+- 💼 I Founded and currently operating an IT venture [proyogLab<sup style="font-size:.95vw">TM</sup>](https://www.facebook.com/proyogLab) alongside an E-commerce Business [impedancePlus](https://www.facebook.com/impedancePlus). [[Learn More]](resume-link) 
+- 🚀 Innovated and developed "[alokShobdo](https://www.facebook.com/proyogLab/posts/pfbid02xmjjn5HaQKdGHjGnwAJJNvky5Nu1NXyma7JE5U4XFor33UWHRvRzh5tGPurNigzfl)" Programmable Learning Device & published my first [Book](https://drive.google.com/file/d/1i4Z0rtyxwGFQifbad1pXf-9SkGPxkgBg/view)) for [proyogLab<sup style="font-size:.95vw">TM</sup>].
+- 🛠️ Previously gained hands-on Experience as an R&D Programmer at the Turkish startup "Octagon Danışmanlık" [[Learn More]](resume-link)
+- 👨‍🎓 Graduated with a B.Sc in CSE from AUST, Dhaka, Bangladesh.
+I am deeply passionate about AI, Embedded Systems, Robotics, IoT, Electronics, Circuitry, Machine Learning, Entrepreneurship, IT businesses, including conglomerate ventures. The belief in "never stop learning" constantly drives my motivation.
 <br> 
 </p>
 
+
+<!--section: PROFICIENT IN -->
 <p>
 <h3 style="margin-top: 0.5vw; margin-bottom: 1.5vw;">
-<b>🎯 EXPERTISE</b>
+<b>🎯 PROFICIENT IN : </b>
 </h3> 
-
-<!--Sub-section: proyogLab-->
-<b style="font-size:1.95vw ; margin-bottom:.5vw"> ● ML/DL ● Embedded-Systems Development ● Circuit Design ● DSA  ● Python ● PyTorch  ● ML Tech-Stack </b> <br> 
-</p>
-
-<p>
-<h3 style="margin-top: 0.5vw; margin-bottom: 1.5vw;">
-<b>🛠️ EXPERIENCES</b>
-</h3> 
-
-<!--Sub-section: Octagon Danışmanlık-->
-<b style="font-size:1.95vw ; margin-bottom:.5vw">●  Octagon Danışmanlık | Istanbul, Turkiye (Remote)</b> <br> 
-<b><i style="font-size:1.70vw ; margin-top:.5vw; color:#3E3B3A">
-Research-&-Development Programmer (Part-Time) 
-</i></b><br> 
-<span style="display: block; margin-top: 0.55vw; font-size: 1.65vw;">
-Managed a variety of responsibilities in Machine Learning and Embedded Systems Development at a Turkish startup. [[Learn More]](resume-link)
-<!--Developed and tested Face Detection and Recognition pipelines with ML models for prototype applications, optimized for embedded platforms; Developed Arduino-based Embedded System prototypes; Compiled basic BLE firmware for ESP32 and Nordic SoCs. -->
-</span>
-
-<p>
-<h3 style="margin-top: 0.5vw; margin-bottom: 1.5vw;">
-<b>💼 VENTURES</b>
-</h3> 
-
-<!--Sub-section: proyogLab-->
-<b style="font-size:1.95vw ; margin-bottom:.5vw">● proyogLab<sup style="font-size:.95vw">TM</sup> | Dhaka, Bangladesh (On-site)</b> <br> 
-<b><i style="font-size:1.70vw ; margin-top:.5vw; color:#3E3B3A">
-Founder, Software Engineer 
-</i></b><br> 
-<span style="display: block; margin-top: 0.55vw; font-size: 1.65vw;">
-Launched and managing an IT-startup named [proyogLab<sup style="font-size:.95vw">TM</sup>](https://www.facebook.com/proyogLab).  Innovated and developed "[alokShobdo](https://www.facebook.com/proyogLab/posts/pfbid02xmjjn5HaQKdGHjGnwAJJNvky5Nu1NXyma7JE5U4XFor33UWHRvRzh5tGPurNigzfl)" (PLD & [Book](https://drive.google.com/file/d/1i4Z0rtyxwGFQifbad1pXf-9SkGPxkgBg/view)). Currently upgrading it's features and optimistic about developing R&D tools, AI systems, softwares, electronics and SaaS solutions in near future.
-</span>
-<br>
-
-<!--Sub-section: impedancePlus-->
-<b style="font-size:1.95vw ; margin-bottom:.5vw">● impedancePlus | Dhaka, Bangladesh (On-site)</b> <br> 
-<b><i style="font-size:1.70vw ; margin-top:.5vw; color:#3E3B3A">
-Founder | Embedded Systems Developer
-</i></b><br> 
-<span style="display: block; margin-top: 0.55vw; font-size: 1.65vw;">
-Founded and currently operating an ecom business named [impedancePlus](https://www.facebook.com/impedancePlus) focused on selling electronics/robotics equipment and providing embedded prototyping services.
-</span>
-<br>
+<b style="font-size:1.95vw ; margin-bottom:.5vw"> ● Machine Learning ● Deep Learning ● Embedded Systems Development ● Circuitry ● DSA </b> <br> 
 </p>
 
 
 
 
 
-<!--Section: EDUCATION-->
+
+<!------------------------------------------section: Tech Stack----------------------------->
 <p>
 <h3 style="margin-top: 0.5vw; margin-bottom: 1.5vw;">
-<b>👨‍🎓 EDUCATION</b>
+<b>🎯 TECHs I WORK WITH : </b>
 </h3> 
-
-<!--Sub-section: AUST-->
-<b style="font-size:1.95vw ; margin-bottom:.5vw">● Ahsanullah University of Science and Technology | Dhaka, Bangladesh </b> <br> 
-<b><i style="font-size:1.70vw ; margin-top:.5vw; color:#3E3B3A">
-Bachelor of Science in Computer Science & Engineering
-</i></b>
-</p>
-
-<!-- A LINE --> 
-<hr style="width:50%;text-align:left;margin-left:0"> 
-
-<!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pointer2alvee&label=Profile%20views&color=0e75b6&style=flat" alt="pointer2alvee" /> </p> -->
-
-<!--
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pointer2alvee" alt="pointer2alvee" /></a> </p>
--->
-
-
-- 🔭 I’m currently working on [LLM based TV-series Analysis System](https://github.com/pointer2Alvee/llm-tv-series-analysis.git)
-
-- 🌱 Exploring advanced concepts in **Deep Learning, LLMs, Computer Vision & ARM processors**
-
-- 👨‍💻 Find all my projects at : [pointer2Alvee](https://github.com/pointer2Alvee?tab=repositories)
-
-- 📩 Reach me : **pointer2alvee@gmail.com**
-
-- 📄 Here's my resume : [alvee](resume-link)
-
-- 🌐 Have a look at my portfolio : [iamAlvee]()
-
-- ⚡ Fun fact, **I fancy playing games and watching horror thriller films**
-
-<h3 align="left">📨 CONNECT WITH ME:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sadman-alvee-1bb464249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadman-alvee-1bb464249" height="30" width="40" /></a>
-<a href="https://kaggle.com/pointer2alvee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pointer2alvee" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@pointer2Alvee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@pointer2alvee?si=amsig7b9w9f2nvq6" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/iamalvee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iamalvee" height="30" width="40" /></a>
-</p>
-
-
 <!--Section: TECH-STACK SECTION STARTS-->
 
 <p align="left"> 
@@ -145,12 +67,60 @@ Bachelor of Science in Computer Science & Engineering
 <a href="https://fritzing.org/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/fritzing-icon-2048x2048-t2pp6p4q.png" alt="Fritzing" width="40" height="40"/> </a>
 
 </p>
-<!--Section: TECH-STACK SECTION ENDS-->
+<!----------------------------------------------Section: TECH-STACK SECTION ENDS---------------------------------->
+
+
+
+
+<!--Currently upgrading it's features and optimistic about developing R&D tools, AI systems, softwares, electronics and SaaS solutions in near future. -->
+
+
+<!-- Founded and currently operating an ecom business named [impedancePlus](https://www.facebook.com/impedancePlus) focused on selling electronics/robotics equipment and providing embedded prototyping services.
+-->
+
+
+
 
 
 <!-- A LINE --> 
 <hr style="width:50%;text-align:left;margin-left:0"> 
 
+<!--
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pointer2alvee&label=Profile%20views&color=0e75b6&style=flat" alt="pointer2alvee" /> </p> -->
+
+<!--
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pointer2alvee" alt="pointer2alvee" /></a> </p>
+-->
+
+
+- 🔭 I’m currently working on [LLM based TV-series Analysis System](https://github.com/pointer2Alvee/llm-tv-series-analysis.git)
+
+- 🌱 Exploring advanced concepts in **Deep Learning, LLMs, Computer Vision & ARM processors**
+
+- 👨‍💻 Find all my projects at : [pointer2Alvee](https://github.com/pointer2Alvee?tab=repositories)
+
+- 📩 Reach me : **pointer2alvee@gmail.com**
+
+- 📄 Here's my resume : [alvee](resume-link)
+
+- 🌐 Have a look at my portfolio : [iamAlvee]()
+
+- ⚡ Fun fact, **I fancy playing games and watching horror thriller films**
+
+<h3 align="left">📨 CONNECT WITH ME:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sadman-alvee-1bb464249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadman-alvee-1bb464249" height="30" width="40" /></a>
+<a href="https://kaggle.com/pointer2alvee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pointer2alvee" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@pointer2Alvee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@pointer2alvee?si=amsig7b9w9f2nvq6" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/iamalvee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iamalvee" height="30" width="40" /></a>
+</p>
+
+
+
+
+
+<!-- A LINE --> 
+<hr style="width:50%;text-align:left;margin-left:0"> 
 
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
