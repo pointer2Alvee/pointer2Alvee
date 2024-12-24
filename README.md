@@ -97,8 +97,6 @@ I am deeply passionate about AI systems, Embedded Systems, Robotics, IoT, Electr
 
 <h3 style="margin-top: 0.5vw; margin-bottom: 1.3vw;">
   <b>📨 Connect With Me : </b>
-</h3>
-
 <p align="left" style="display: flex; gap: 10px; align-items: center;">
   <a href="https://linkedin.com/in/sadman-alvee-1bb464249" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadman-alvee-1bb464249" height="35" width="35" />
@@ -113,6 +111,9 @@ I am deeply passionate about AI systems, Embedded Systems, Robotics, IoT, Electr
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iamalvee" height="35" width="35" />
   </a>
 </p>
+
+</h3>
+
 
 
 <!--Currently upgrading it's features and optimistic about developing R&D tools, AI systems, softwares, electronics and SaaS solutions in near future. -->
