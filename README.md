@@ -61,16 +61,13 @@ I am deeply passionate about AI, Embedded Systems, Robotics, IoT, Electronics, C
    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="30"/> </a>
     <!-- ESP32 -->
    <a href="https://www.esp32.com/" target="_blank" rel="noreferrer"> 
-  <img class="img-size" src="https://w7.pngwing.com/pngs/369/534/png-transparent-espressif-systems-hd-logo.png" alt="ESP32" width="30" height="30"/> </a>
-
+  <img class="img-size" src="https://w7.pngwing.com/pngs/369/534/png-transparent-espressif-systems-hd-logo.png" alt="ESP32" width="30" height="30"/></a>
     <!-- LINUX -->
-   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a>
-
+   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/></a>
    <!-- GIT -->
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
-
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></a>
    <!-- FRITNZING -->
-<a href="https://fritzing.org/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://static-00.iconduck.com/assets.00/fritzing-icon-2048x2048-t2pp6p4q.png" alt="Fritzing" width="30" height="30"/> </a>
+<a href="https://fritzing.org/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://static-00.iconduck.com/assets.00/fritzing-icon-2048x2048-t2pp6p4q.png" alt="Fritzing" width="30" height="30"/></a>
 
   
 <!--
