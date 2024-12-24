@@ -3,10 +3,15 @@
 <h1 align="center">Greetings 👋, I'm alvee</h1>
 <h3 align="center">A passionate "Machine Learning Engineer | Embedded Systems Developer | Entrepreneur" from Dhaka, Bangladesh 🇧🇩</h3>
 <p>
-- 💼 I Founded and currently operating an IT venture [proyogLab<sup style="font-size:.95vw">TM</sup>](https://www.facebook.com/proyogLab) alongside an E-commerce Business [impedancePlus](https://www.facebook.com/impedancePlus). [[Learn More]](resume-link) 
-- 🚀 Innovated and developed "[alokShobdo](https://www.facebook.com/proyogLab/posts/pfbid02xmjjn5HaQKdGHjGnwAJJNvky5Nu1NXyma7JE5U4XFor33UWHRvRzh5tGPurNigzfl)" Programmable Learning Device & published my first [Book](https://drive.google.com/file/d/1i4Z0rtyxwGFQifbad1pXf-9SkGPxkgBg/view)) for [proyogLab<sup style="font-size:.95vw">TM</sup>].
+- 💼 I Founded and currently operating an IT venture [proyogLab<sup style="font-size:.95vw">TM</sup>] 
+(https://www.facebook.com/proyogLab) alongside an E-commerce Business [impedancePlus](https://www.facebook.com/impedancePlus). [[Learn More]](resume-link) 
+<br>
+- 🚀 Innovated and developed "[alokShobdo](https://www.facebook.com/proyogLab/posts/pfbid02xmjjn5HaQKdGHjGnwAJJNvky5Nu1NXyma7JE5U4XFor33UWHRvRzh5tGPurNigzfl)" Programmable Learning Device & published my first [Book](https://drive.google.com/file/d/1i4Z0rtyxwGFQifbad1pXf-9SkGPxkgBg/view)) for [proyogLab<sup style="font-size:.95vw">TM</sup>]. 
+<br>
 - 🛠️ Previously gained hands-on Experience as an R&D Programmer at the Turkish startup "Octagon Danışmanlık" [[Learn More]](resume-link)
+<br>
 - 👨‍🎓 Graduated with a B.Sc in CSE from AUST, Dhaka, Bangladesh.
+<br>
 I am deeply passionate about AI, Embedded Systems, Robotics, IoT, Electronics, Circuitry, Machine Learning, Entrepreneurship, IT businesses, including conglomerate ventures. The belief in "never stop learning" constantly drives my motivation.
 <br> 
 </p>
@@ -15,7 +20,7 @@ I am deeply passionate about AI, Embedded Systems, Robotics, IoT, Electronics, C
 <!--section: PROFICIENT IN -->
 <p>
 <h3 style="margin-top: 0.5vw; margin-bottom: 1.5vw;">
-<b>🎯 PROFICIENT IN : </b>
+<b>🎯 Proficient in : </b>
 </h3> 
 <b style="font-size:1.95vw ; margin-bottom:.5vw"> ● Machine Learning ● Deep Learning ● Embedded Systems Development ● Circuitry ● DSA </b> <br> 
 </p>
@@ -28,13 +33,13 @@ I am deeply passionate about AI, Embedded Systems, Robotics, IoT, Electronics, C
 <!------------------------------------------section: Tech Stack----------------------------->
 <p>
 <h3 style="margin-top: 0.5vw; margin-bottom: 1.5vw;">
-<b>🎯 TECHs I WORK WITH : </b>
+<b>🎯 Techs i work with : </b>
 </h3> 
 <!--Section: TECH-STACK SECTION STARTS-->
 
 <p align="left"> 
 <!--Sub-section: LANGUAGES-->
-<h3 align="left"> 💻 TECH-STACK - LANGUAGES | FRAMEWORKS | DEV-TOOLS : </h3>
+<!-- <h3 align="left"> 💻 TECH-STACK - LANGUAGES | FRAMEWORKS | DEV-TOOLS : </h3> -->
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
