@@ -98,18 +98,18 @@ I am deeply passionate about AI systems, Embedded Systems, Robotics, IoT, Electr
 <h3 style="margin-top: 0.5vw; margin-bottom: 1.3vw;">
  
 <p align="left" style="display: flex; gap: 10px; align-items: center;">
-   <b>📨 Connect With Me : </b>
+   <b>📨 Connect : </b>
    <a href="https://linkedin.com/in/sadman-alvee-1bb464249" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadman-alvee-1bb464249" height="15" width="15" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadman-alvee-1bb464249" height="17" width="17" />
   </a>
   <a href="https://kaggle.com/pointer2alvee" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pointer2alvee" height="15" width="15" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pointer2alvee" height="17" width="17" />
   </a>
   <a href="https://www.youtube.com/@pointer2Alvee" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@pointer2alvee?si=amsig7b9w9f2nvq6" height="35" width="35" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@pointer2alvee?si=amsig7b9w9f2nvq6" height="17" width="17" />
   </a>
   <a href="https://www.leetcode.com/iamalvee" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iamalvee" height="35" width="35" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iamalvee" height="17" width="17" />
   </a>
 </p>
 
