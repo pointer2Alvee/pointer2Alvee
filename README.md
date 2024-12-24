@@ -106,7 +106,6 @@ I am deeply passionate about AI systems, Embedded Systems, Robotics, IoT, Electr
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iamalvee" height="14" width="14" /></a>
 </p>
 
-</h3>
 
 
 
