@@ -94,11 +94,8 @@ I am deeply passionate about AI systems, Embedded Systems, Robotics, IoT, Electr
 </p>
 <!----------------------------------------------Section: TECH-STACK SECTION ENDS---------------------------------->
 
-
-<h3 style="margin-top: 0.5vw; margin-bottom: 1.3vw;">
- 
 <p align="left" style="display: flex; gap: 10px; align-items: center;">
-   <b>📨 Connect : </b>
+   <b style="font-size: 20px;">📨 Connect : </b>
    <a href="https://linkedin.com/in/sadman-alvee-1bb464249" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadman-alvee-1bb464249" height="14" width="14" />
   </a>
