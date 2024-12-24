@@ -1,3 +1,5 @@
+[resume-link]: https://drive.google.com/file/d/1Z8ok-TBtL7iSyvtbKhRGcS4NL8FuXRNR/view?usp=sharing
+
 <h1 align="center">Greetings 👋, I'm alvee</h1>
 <h3 align="center">A passionate <br> Machine Learning Engineer | Embedded Systems Developer <br> from Dhaka, Bangladesh</h3>
 <p> 
@@ -7,7 +9,7 @@ I have completed my Bachelor of Science in Computer Science and Engineering from
 
 <p>
 <h3 style="margin-top: 0.5vw; margin-bottom: 1.5vw;">
-<b>🎯 SKILLS</b>
+<b>🎯 EXPERTISE</b>
 </h3> 
 
 <!--Sub-section: proyogLab-->
@@ -20,6 +22,23 @@ I have completed my Bachelor of Science in Computer Science and Engineering from
 <b>🛠️ EXPERIENCES</b>
 </h3> 
 
+<!--Sub-section: Octagon Danışmanlık-->
+<b style="font-size:1.95vw ; margin-bottom:.5vw">●  Octagon Danışmanlık | Istanbul, Turkiye (Remote)</b> <br> 
+<b><i style="font-size:1.70vw ; margin-top:.5vw; color:#3E3B3A">
+Research-&-Development Programmer (Part-Time) 
+</i></b><br> 
+<span style="display: block; margin-top: 0.55vw; font-size: 1.65vw;">
+Managed a variety of responsibilities in Machine Learning and Embedded Systems Development at a Turkish startup.[Learn More](resume-link)
+<!--Developed and tested Face Detection and Recognition pipelines with ML models for prototype applications, optimized for embedded platforms; Developed Arduino-based Embedded System prototypes; Compiled basic BLE firmware for ESP32 and Nordic SoCs. -->
+</span>
+<br>
+
+
+<p>
+<h3 style="margin-top: 0.5vw; margin-bottom: 1.5vw;">
+<b>💼 VENTURES</b>
+</h3> 
+
 <!--Sub-section: proyogLab-->
 <b style="font-size:1.95vw ; margin-bottom:.5vw">● proyogLab<sup style="font-size:.95vw">TM</sup> | Dhaka, Bangladesh (On-site)</b> <br> 
 <b><i style="font-size:1.70vw ; margin-top:.5vw; color:#3E3B3A">
@@ -29,18 +48,6 @@ Founder, Software Engineer
 Launched and managing an IT-startup named [proyogLab<sup style="font-size:.95vw">TM</sup>](https://www.facebook.com/proyogLab).  Innovated and developed "[alokShobdo](https://www.facebook.com/proyogLab/posts/pfbid02xmjjn5HaQKdGHjGnwAJJNvky5Nu1NXyma7JE5U4XFor33UWHRvRzh5tGPurNigzfl)" (PLD & [Book](https://drive.google.com/file/d/1i4Z0rtyxwGFQifbad1pXf-9SkGPxkgBg/view)). Currently upgrading it's features and optimistic about developing R&D tools, AI systems, softwares, electronics and SaaS solutions in near future.
 </span>
 <br>
-
-
-<!--Sub-section: Octagon Danışmanlık-->
-<b style="font-size:1.95vw ; margin-bottom:.5vw">●  Octagon Danışmanlık | Istanbul, Turkiye (Remote)</b> <br> 
-<b><i style="font-size:1.70vw ; margin-top:.5vw; color:#3E3B3A">
-Research-&-Development Programmer (Part-Time) 
-</i></b><br> 
-<span style="display: block; margin-top: 0.55vw; font-size: 1.65vw;">
-Handled diverse tasks in ML and Embedded Systems Development at a startup Turkish Startup named Octagon Danışmanlık. Developed and tested Face Detection and Recognition pipelines with ML models for prototype applications, optimized for embedded platforms; Developed Arduino-based Embedded System prototypes; Compiled basic BLE firmware for ESP32 and Nordic SoCs.
-</span>
-<br>
-
 
 <!--Sub-section: impedancePlus-->
 <b style="font-size:1.95vw ; margin-bottom:.5vw">● impedancePlus | Dhaka, Bangladesh (On-site)</b> <br> 
@@ -52,8 +59,12 @@ Founded and currently operating an ecom business named [impedancePlus](https://w
 </span>
 <br>
 </p>
-<!--Section: EDUCATION-->
 
+
+
+
+
+<!--Section: EDUCATION-->
 <p>
 <h3 style="margin-top: 0.5vw; margin-bottom: 1.5vw;">
 <b>👨‍🎓 EDUCATION</b>
@@ -85,8 +96,8 @@ Bachelor of Science in Computer Science & Engineering
 
 - 📩 Reach me : **pointer2alvee@gmail.com**
 
-- 📄 Here's my resume : [alvee](https://drive.google.com/file/d/1Z8ok-TBtL7iSyvtbKhRGcS4NL8FuXRNR/view?usp=sharing)
-  
+- 📄 Here's my resume : [alvee](resume-link)
+
 - 🌐 Have a look at my portfolio : [iamAlvee]()
 
 - ⚡ Fun fact, **I fancy playing games and watching horror thriller films**
