@@ -8,7 +8,7 @@
 - 🛠️ Previously gained hands-on Experience as an R&D Programmer at the Turkish startup "Octagon Danışmanlık" [[Learn More]](https://drive.google.com/file/d/1Z8ok-TBtL7iSyvtbKhRGcS4NL8FuXRNR/view?usp=sharing) 
 - 👨‍🎓 Graduated with a B.Sc in CSE from Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh.
 
-I am deeply passionate about AI, Embedded Systems, Robotics, IoT, Electronics, Circuitry, Machine Learning, Entrepreneurship, IT businesses, including conglomerate ventures. The belief in "never stop learning" constantly drives my motivation.
+I am deeply passionate about AI systems, Embedded Systems, Robotics, IoT, Electronics, Circuitry, Automation, Machine Learning, Entrepreneurship, IT businesses, including conglomerate ventures. The belief in "never stop learning" constantly drives my motivation.
 <br> 
 
 <!-- A LINE --> 
@@ -26,7 +26,7 @@ I am deeply passionate about AI, Embedded Systems, Robotics, IoT, Electronics, C
 <!------------------------------------------section: Tech Stack----------------------------->
 <p>
 <h3 style="margin-top: 0.5vw; margin-bottom: 1.5vw;">
-<b>🎯 My Technology stack : </b>
+<b>🎯 My Technology Stack : </b>
 </h3> 
 <!--Section: TECH-STACK SECTION STARTS-->
 
@@ -54,7 +54,7 @@ I am deeply passionate about AI, Embedded Systems, Robotics, IoT, Electronics, C
    <!-- Pandas -->
    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="30" height="30"/></a>
     <!-- VS CODE -->
-   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img class="img-size" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="30" height="30"/> </a>
+   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img class="img-size" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="30" height="30"/></a>
     <!-- ARDUIO IDE -->
    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="30"/></a>
     <!-- ESP32 -->
@@ -118,7 +118,7 @@ I am deeply passionate about AI, Embedded Systems, Robotics, IoT, Electronics, C
 - 🌐 Have a look at my portfolio : [iamAlvee]()
 - ⚡ Fun fact, **I fancy playing games and watching horror thriller films**
 
-<h3 align="left">📨 CONNECT WITH ME:</h3>
+<h3 align="left">📨 Connect With Me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sadman-alvee-1bb464249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadman-alvee-1bb464249" height="30" width="40" /></a>
 <a href="https://kaggle.com/pointer2alvee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pointer2alvee" height="30" width="40" /></a>
