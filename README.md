@@ -38,27 +38,27 @@ I am deeply passionate about AI, Embedded Systems, Robotics, IoT, Electronics, C
 <!--Sub-section: LANGUAGES-->
 <!-- <h3 align="left"> 💻 TECH-STACK - LANGUAGES | FRAMEWORKS | DEV-TOOLS : </h3> -->
    <!-- Python -->
-   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img class="img-size" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a>
+   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img class="img-size" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/></a>
    <!-- C -->
-   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a>
+   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/></a>
    <!-- C++ -->
-   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a>
+   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/></a>
    <!-- PyTorch -->
-   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="30" height="30"/> </a>
+   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="30" height="30"/></a>
    <!-- TensorFlow -->
-   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img class="img-size" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/> </a>
+   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img class="img-size" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/></a>
     <!-- Scikit-learn -->
    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="30" height="30"/> </a>
    <!-- Sea born -->
-   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="30" height="30"/> </a>
+   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="30" height="30"/></a>
    <!-- OpenCV -->
-   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="30" height="30"/> </a>
+   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="30" height="30"/></a>
    <!-- Pandas -->
-   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="30" height="30"/> </a>
+   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="30" height="30"/></a>
     <!-- VS CODE -->
    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img class="img-size" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="30" height="30"/> </a>
     <!-- ARDUIO IDE -->
-   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="30"/> </a>
+   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="30"/></a>
     <!-- ESP32 -->
    <a href="https://www.esp32.com/" target="_blank" rel="noreferrer"> 
   <img class="img-size" src="https://w7.pngwing.com/pngs/369/534/png-transparent-espressif-systems-hd-logo.png" alt="ESP32" width="30" height="30"/></a>
