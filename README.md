@@ -44,8 +44,7 @@ I am deeply passionate about AI, Embedded Systems, Robotics, IoT, Electronics, C
    <!-- C++ -->
    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a>
    
-<!--Sub-section: LIBRARIES-FRAMEWORKS -->
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="30" height="30"/> </a>
+   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="30" height="30"/> </a>
 
   
 <!--
