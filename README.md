@@ -28,8 +28,8 @@ I am deeply passionate about AI, Embedded Systems, Robotics, IoT, Electronics, C
 
 <!------------------------------------------section: Tech Stack----------------------------->
 .img-size {
-    width: 25px;
-    height: 25px;
+    width: 5px;
+    height: 5px;
 }
 
 <p>
