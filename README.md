@@ -3,7 +3,7 @@
 <h1 align="center">Greetings 👋, I'm alvee</h1>
 <h3 align="center">"Machine Learning Engineer | Embedded Systems Developer | Entrepreneur" from Dhaka, Bangladesh</h3>
 
-- 💼 I Founded and currently operating an IT venture [proyogLab](https://www.facebook.com/proyogLab)™ and [impedancePlus](https://www.facebook.com/impedancePlus), an E-commerce Business. [[Learn More]](https://drive.google.com/file/d/1Z8ok-TBtL7iSyvtbKhRGcS4NL8FuXRNR/view?usp=sharing) 
+- 💼 I Founded and currently operating an IT venture [proyogLab](https://www.facebook.com/proyogLab)™ alongside [impedancePlus](https://www.facebook.com/impedancePlus), an E-commerce Business. [[Learn More]](https://drive.google.com/file/d/1Z8ok-TBtL7iSyvtbKhRGcS4NL8FuXRNR/view?usp=sharing) 
 - 🚀 Innovated and developed "[alokShobdo](https://www.facebook.com/proyogLab/posts/pfbid02xmjjn5HaQKdGHjGnwAJJNvky5Nu1NXyma7JE5U4XFor33UWHRvRzh5tGPurNigzfl)" Programmable Learning Device & published my first [Book](https://drive.google.com/file/d/1i4Z0rtyxwGFQifbad1pXf-9SkGPxkgBg/view) for proyogLab™. 
 - 🛠️ Previously gained hands-on Experience as an R&D Programmer at the Turkish startup "Octagon Danışmanlık" [[Learn More]](https://drive.google.com/file/d/1Z8ok-TBtL7iSyvtbKhRGcS4NL8FuXRNR/view?usp=sharing) 
 - 👨‍🎓 Graduated with a B.Sc in CSE from Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh.
@@ -26,7 +26,7 @@ I am deeply passionate about AI systems, Embedded Systems, Robotics, IoT, Electr
 <!------------------------------------------section: Tech Stack----------------------------->
 <p>
 <h3 style="margin-top: 0.5vw; margin-bottom: 1.5vw;">
-<b>🎯 My Technology Stack : </b>
+<b>👨‍💻 My Technology Stack : </b>
 </h3> 
 <!--Section: TECH-STACK SECTION STARTS-->
 
@@ -118,7 +118,10 @@ I am deeply passionate about AI systems, Embedded Systems, Robotics, IoT, Electr
 - 🌐 Have a look at my portfolio : [iamAlvee]()
 - ⚡ Fun fact, **I fancy playing games and watching horror thriller films**
 
-<h3 align="left">📨 Connect With Me:</h3>
+<h3 style="margin-top: 0.5vw; margin-bottom: 1.5vw;">
+<b>📨 Connect With Me : </b>
+</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/sadman-alvee-1bb464249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadman-alvee-1bb464249" height="30" width="40" /></a>
 <a href="https://kaggle.com/pointer2alvee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pointer2alvee" height="30" width="40" /></a>
