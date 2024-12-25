@@ -130,7 +130,7 @@ I am deeply passionate about AI systems, Embedded Systems, Robotics, IoT, Electr
 - 🌱 Exploring advanced concepts in **Deep Learning, LLMs, Computer Vision & ARM processors**
 - 👨‍💻 Find all my projects at : [pointer2Alvee](https://github.com/pointer2Alvee?tab=repositories)
 - 📩 Reach me : **pointer2alvee@gmail.com**
-- 📄 Here's my resume : [alvee](resume-link)
+- 📄 Here's my resume : [alvee](https://drive.google.com/file/d/1Z8ok-TBtL7iSyvtbKhRGcS4NL8FuXRNR/view?usp=sharing)
 - 🌐 Have a look at my portfolio : [iamAlvee]()
 - ⚡ Fun fact, **I fancy playing games and watching horror thriller films**
 
