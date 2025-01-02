@@ -3,7 +3,7 @@
 <h1 align="center">Greetings 👋, I'm alvee</h1>
 <h3 align="center">"Machine Learning Engineer | Embedded Systems Developer | Entrepreneur" from Dhaka, Bangladesh</h3>
 
-- 💼 I Founded and currently operating an IT venture [proyogLab](https://www.facebook.com/proyogLab)™ alongside [impedancePlus](https://www.facebook.com/impedancePlus), an E-commerce Business. [[Learn More]](https://drive.google.com/file/d/1Z8ok-TBtL7iSyvtbKhRGcS4NL8FuXRNR/view?usp=sharing) 
+- 💼 I Founded and currently operating an IT venture [proyogLab](https://www.facebook.com/proyogLab)™ alongside [impedancePlus](https://www.facebook.com/impedancePlus), an E-commerce Business. [[Learn More]](https://alvee.vercel.app/ventures) 
 - 🚀 Innovated and developed "[alokShobdo](https://www.facebook.com/proyogLab/posts/pfbid02xmjjn5HaQKdGHjGnwAJJNvky5Nu1NXyma7JE5U4XFor33UWHRvRzh5tGPurNigzfl)" Programmable Learning Device & published my first [Book](https://drive.google.com/file/d/1i4Z0rtyxwGFQifbad1pXf-9SkGPxkgBg/view) for proyogLab™. 
 - 🛠️ Previously gained hands-on Experience as an R&D Programmer at the Turkish startup "Octagon Danışmanlık" [[Learn More]](https://drive.google.com/file/d/1Z8ok-TBtL7iSyvtbKhRGcS4NL8FuXRNR/view?usp=sharing) 
 - 👨‍🎓 Graduated with a B.Sc in CSE from Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh.
@@ -131,7 +131,7 @@ I am deeply passionate about AI systems, Embedded Systems, Robotics, IoT, Electr
 - 👨‍💻 Find all my projects at : [pointer2Alvee](https://github.com/pointer2Alvee?tab=repositories)
 - 📩 Reach me : **pointer2alvee@gmail.com**
 - 📄 Here's my resume : [alvee](https://drive.google.com/file/d/1Z8ok-TBtL7iSyvtbKhRGcS4NL8FuXRNR/view?usp=sharing)
-- 🌐 Have a look at my portfolio : [iamAlvee]()
+- 🌐 Have a look at my portfolio : [iamAlvee](https://alvee.vercel.app/)
 - ⚡ Fun fact, **I fancy playing games and watching horror thriller films**
 
 
