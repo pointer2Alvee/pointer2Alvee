@@ -20,7 +20,7 @@ I am deeply passionate about AI systems, Embedded Systems, Robotics, IoT, Electr
 <h3 style="margin-top: 0.5vw; margin-bottom: 1.3vw;">
 <b>🎯 I'm proficient in : </b>
 </h3> 
-<b style="font-size:1.95vw ; margin-bottom:.5vw"> ● Machine Learning ● Deep Learning ● Embedded Systems Development ● Electronics & Circuitry ● DSA </b> <br> 
+<b style="font-size:1.95vw ; margin-bottom:.5vw"> ● Python Engineering ● Machine Learning ● Deep Learning ● Embedded Systems Development ● Electronics & Circuitry ● DSA </b> <br> 
 </p>
 
 <!------------------------------------------section: Tech Stack----------------------------->
