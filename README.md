@@ -42,7 +42,11 @@ I am deeply passionate about AI systems, Embedded Systems, Robotics, IoT, Electr
    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="30" height="30"/></a>
    <!-- TensorFlow -->
    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img class="img-size" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/></a>
-    <!-- Scikit-learn -->
+   <!-- Numpy -->
+   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="30" height="30"/></a>
+   <!-- Matplotlib -->
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="30" height="30"/></a>
+   <!-- Scikit-learn -->
    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="30" height="30"/></a>
    <!-- Sea born -->
    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="30" height="30"/></a>
@@ -57,8 +61,6 @@ I am deeply passionate about AI systems, Embedded Systems, Robotics, IoT, Electr
     <!-- ESP32 -->
    <a href="https://www.esp32.com/" target="_blank" rel="noreferrer"> 
   <img class="img-size" src="https://w7.pngwing.com/pngs/369/534/png-transparent-espressif-systems-hd-logo.png" alt="ESP32" width="30" height="30"/></a>
-    <!-- LINUX -->
-   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/></a>
    <!-- GIT -->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></a>
    <!-- FRITNZING -->
@@ -79,8 +81,8 @@ I am deeply passionate about AI systems, Embedded Systems, Robotics, IoT, Electr
    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/></a>
    <!-- php -->
    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img class="img-size" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/></a>
-   <!-- SQL -->
-   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank" rel="noreferrer"> <img class="img-size" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="30" height="30"/></a>
+    <!-- LINUX -->
+   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/></a>
    <!-- html -->
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/></a>
    <!-- bootstrap -->
