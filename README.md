@@ -108,16 +108,15 @@ I am deeply passionate about AI systems, Embedded Systems, Robotics, IoT, Electr
    <!-- Raspberry pi -->
  <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="30" height="30"/></a>
 <!-- STM32 -->
-<a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer">
-  <img class="img-size" src="https://www.st.com/etc/clientlibs/ym/brand-identity/logos/master-logo-png/ST-Microelectronics-logo.png" alt="STM32" width="30" height="30"/>
-</a>
+<a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer"><img class="img-size" src="https://wiki.st.com/stm32mpu/nsfr_img_auth.php/archive/c/c5/20211105095744%21ST_logo.png" alt="STM32" width="30" height="30"/></a>
+   
    <!-- Segger Embedded Studio -->
    <a href="https://www.segger.com/products/development-tools/embedded-studio/" target="_blank" rel="noreferrer">
-  <img class="img-size" src="https://wiki.st.com/stm32mpu/nsfr_img_auth.php/archive/c/c5/20211105095744%21ST_logo.png" alt="Segger Embedded Studio" width="30" height="30"/>
+  <img class="img-size" src="https://c.a.segger.com/fileadmin/images/about-us/Media/Preview/segger-logo-outlines-the-embedded-experts_600x.png" alt="Segger Embedded Studio" width="30" height="30"/>
 </a>
    <!-- Aurix -->
    <a href="https://www.infineon.com/cms/en/product/microcontroller/32-bit-tricore-microcontroller/aurix-family-tc2xx/" target="_blank" rel="noreferrer">
-  <img class="img-size" src="https://upload.wikimedia.org/wikipedia/commons/7/72/Infineon_Logo.png" alt="Aurix" width="30" height="30"/>
+  <img class="img-size" src="https://w7.pngwing.com/pngs/321/862/png-transparent-infineon-technologies-hd-logo.png" alt="Aurix" width="30" height="30"/>
 </a>
 
 
