@@ -105,17 +105,19 @@ I am deeply passionate about AI systems, Embedded Systems, Robotics, IoT, Electr
  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="30" height="30"/></a>
  <!-- IFTTT -->
  <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ifttt/ifttt-original.svg" alt="ifttt" width="30" height="30"/></a>
+   <!-- Raspberry pi -->
+ <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="30" height="30"/></a>
+
 <!-- Segger ES -->
-   <a href="https://www.segger.com/products/development-tools/embedded-studio/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://user-images.githubusercontent.com/45425314/111813129-72cd0400-88df-11eb-9f8e-4238c3548a28.png" alt="segger" width="30" height="30"/></a>
+  <a href="https://www.segger.com/products/development-tools/embedded-studio/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://raw.githubusercontent.com/wiki/sgolovanov/embedded-studio/images/EmbeddedStudio.png" alt="segger" width="30" height="30"/></a>
 
 <!-- STM32 -->
-<a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer"> <img class="img-size" src="https://user-images.githubusercontent.com/45425314/111814022-7745ec80-88e0-11eb-91a0-045f8a208a63.png" alt="stm32" width="30" height="30"/></a>
+<a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer"> <img class="img-size" src="https://www.st.com/etc/clientlibs/ym/brand-identity/logos/master-logo-png/ST-Microelectronics-logo.png" alt="stm32" width="30" height="30"/></a>
+
 
 <!-- Aurix -->
-<a href="https://www.infineon.com/cms/en/product/microcontroller/32-bit-tricore-microcontroller/aurix-family-tc2xx/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://user-images.githubusercontent.com/45425314/107345445-58b21d80-6aff-11eb-8cf0-0c02d8b24c40.png" alt="aurix" width="30" height="30"/></a>
+<a href="https://www.infineon.com/cms/en/product/microcontroller/32-bit-tricore-microcontroller/aurix-family-tc2xx/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://upload.wikimedia.org/wikipedia/commons/7/72/Infineon_Logo.png" alt="aurix" width="30" height="30"/></a>
 
-<!-- Raspberry pi -->
- <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="30" height="30"/></a>
 
 
 </p>
