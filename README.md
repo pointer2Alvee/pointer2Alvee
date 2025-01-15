@@ -112,7 +112,7 @@ I am deeply passionate about AI systems, Embedded Systems, Robotics, IoT, Electr
    <!-- Segger Embedded Studio -->
    <a href="https://www.segger.com/products/development-tools/embedded-studio/" target="_blank" rel="noreferrer"><img class="img-size" src="https://c.a.segger.com/fileadmin/images/about-us/Media/Preview/segger-logo-outlines-the-embedded-experts_600x.png" alt="Segger Embedded Studio" width="30" height="30"/></a>
    <!-- Aurix / infineon Technologies -->
-   <a href="https://www.infineon.com/cms/en/product/microcontroller/32-bit-tricore-microcontroller/aurix-family-tc2xx/" target="_blank" rel="noreferrer"><img class="img-size" src="https://seeklogo.com/images/I/Infineon_Technologies-logo-AB373D6EA2-seeklogo.com.png" alt="Aurix" width="30" height="30"/></a>
+   <a href="https://www.infineon.com/cms/en/product/microcontroller/32-bit-tricore-microcontroller/aurix-family-tc2xx/" target="_blank" rel="noreferrer"><img class="img-size" src="https://incabin.com/wp-content/uploads/2023/02/Infineon-Technologies-AG.webp" alt="Aurix" width="30" height="30"/></a>
 
 
 
