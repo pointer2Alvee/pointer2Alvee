@@ -113,7 +113,7 @@ I am deeply passionate about AI systems, Embedded Systems, Robotics, IoT, Electr
 </a>
    <!-- Segger Embedded Studio -->
    <a href="https://www.segger.com/products/development-tools/embedded-studio/" target="_blank" rel="noreferrer">
-  <img class="img-size" src="https://raw.githubusercontent.com/wiki/sgolovanov/embedded-studio/images/EmbeddedStudio.png" alt="Segger Embedded Studio" width="30" height="30"/>
+  <img class="img-size" src="[https://raw.githubusercontent.com/wiki/sgolovanov/embedded-studio/images/EmbeddedStudio.png](https://e7.pngegg.com/pngimages/157/473/png-clipart-stmicroelectronics-integrated-circuits-chips-printed-circuit-board-stm32-electronic-component-others-miscellaneous-blue.png)" alt="Segger Embedded Studio" width="30" height="30"/>
 </a>
    <!-- Aurix -->
    <a href="https://www.infineon.com/cms/en/product/microcontroller/32-bit-tricore-microcontroller/aurix-family-tc2xx/" target="_blank" rel="noreferrer">
