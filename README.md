@@ -8,7 +8,7 @@
 - 🛠️ Previously gained hands-on Experience as an R&D Programmer at the Turkish startup "Octagon Danışmanlık" [[Learn More]](https://drive.google.com/file/d/1Z8ok-TBtL7iSyvtbKhRGcS4NL8FuXRNR/view?usp=sharing) 
 - 👨‍🎓 Graduated with a B.Sc in CSE from Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh.
 
-I am deeply passionate about AI systems, Embedded Systems, Robotics, IoT, Electronics, Circuitry, Automation, Machine Learning, Entrepreneurship, IT businesses, including conglomerate ventures. The belief in "never stop learning" constantly drives my motivation.
+I am deeply passionate about AI systems, Embedded Systems, Robotics, IoT, Electronics, Circuitry, SaaS, Automation, Machine Learning, Entrepreneurship, IT businesses, including conglomerate ventures. The belief in "never stop learning" constantly drives my motivation.
 <br> 
 
 <!-- A LINE --> 
