@@ -154,7 +154,7 @@ I am deeply passionate about AI systems, Embedded Systems, Robotics, IoT, Electr
 <hr style="width:50%;text-align:left;margin-left:0"> 
 
 - 🔭 I’m currently working on [LLM based TV-series Analysis System](https://github.com/pointer2Alvee/llm-tv-series-analysis.git)
-- 🌱 Exploring advanced concepts in **Deep Learning, LLMs, Computer Vision & MLOps**
+- 🌱 Exploring advanced concepts in **AI Engineering, Deep Learning, LLMs, Computer Vision & MLOps**
 - 👨‍💻 Find all my projects at : [pointer2Alvee](https://github.com/pointer2Alvee?tab=repositories)
 - 📩 Reach me : **pointer2alvee@gmail.com**
 - 📄 Here's my resume : [alvee](https://drive.google.com/file/d/1Z8ok-TBtL7iSyvtbKhRGcS4NL8FuXRNR/view?usp=sharing)
