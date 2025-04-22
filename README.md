@@ -56,6 +56,8 @@ I am deeply passionate about AI systems, Embedded Systems, Robotics, IoT, Electr
    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="30" height="30"/></a>
      <!-- Scrapy -->
    <a href="https://scrapy.org/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://cdn2.hubspot.net/hubfs/4367560/Imported_Blog_Media/scrapy.png" alt="pandas" width="30" height="30"/></a>
+   <!-- Gradio -->
+   <a href="https://www.gradio.app/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/gradio-color.png" alt="pandas" width="30" height="30"/></a>
     <!-- VS CODE -->
    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img class="img-size" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="30" height="30"/></a>
     <!-- ARDUIO IDE -->
