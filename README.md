@@ -54,11 +54,11 @@ I am deeply passionate about AI systems, Embedded Systems, Robotics, IoT, Electr
    <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="30" height="30"/></a>
    <!-- Pandas -->
    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="30" height="30"/></a>
-     <!-- Scrapy -->
+     <!--Scrapy -->
    <a href="https://scrapy.org/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://cdn2.hubspot.net/hubfs/4367560/Imported_Blog_Media/scrapy.png" alt="pandas" width="30" height="30"/></a>
    <!-- Gradio -->
    <a href="https://www.gradio.app/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/gradio-color.png" alt="pandas" width="30" height="30"/></a>
-    <!-- VS CODE -->
+    <!--VS CODE -->
    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img class="img-size" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="30" height="30"/></a>
     <!-- ARDUIO IDE -->
    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="30"/></a>
@@ -96,7 +96,7 @@ I am deeply passionate about AI systems, Embedded Systems, Robotics, IoT, Electr
    <!-- CSS -->
    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/></a>
    <!-- Firebase -->
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://e7.pngegg.com/pngimages/119/167/png-clipart-firebase-cloud-messaging-google-developers-software-development-kit-google-angle-triangle-thumbnail.png" alt="firebase" width="30" height="30"/></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" alt="firebase" width="30" height="30"/></a>
    <!-- Android -->
    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img class="img-size" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/></a>
    <!-- Three js -->
