@@ -96,7 +96,7 @@ I am deeply passionate about AI systems, Embedded Systems, Robotics, IoT, Electr
    <!-- CSS -->
    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/></a>
    <!-- Firebase -->
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://e7.pngegg.com/pngimages/119/167/png-clipart-firebase-cloud-messaging-google-developers-software-development-kit-google-angle-triangle-thumbnail.png" alt="firebase" width="30" height="30"/></a>
    <!-- Android -->
    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img class="img-size" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/></a>
    <!-- Three js -->
