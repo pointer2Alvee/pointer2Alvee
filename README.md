@@ -1,7 +1,7 @@
 [resume-link]: https://drive.google.com/file/d/1Z8ok-TBtL7iSyvtbKhRGcS4NL8FuXRNR/view?usp=sharing
 
 <h1 align="center">Greetings 👋, I'm alvee</h1>
-<h3 align="center">"Machine Learning Engineer | Embedded Systems Developer | Entrepreneur" from Dhaka, Bangladesh</h3>
+<h3 align="center">"Machine Learning Engineer | Embedded Systems Developer <!--| Entrepreneur"--> from Dhaka, Bangladesh</h3>
 <!-- below hide entreprenual activities before job found, uncomment later-->
 <!--
 - 💼 I Founded and currently operating an IT venture [proyogLab](https://www.facebook.com/proyogLab)™ alongside [impedancePlus](https://www.facebook.com/impedancePlus), an E-commerce Business. [[Learn More]](https://alvee.vercel.app/ventures) 
