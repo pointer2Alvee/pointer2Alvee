@@ -8,11 +8,11 @@
 - 🚀 Innovated and developed "[alokShobdo](https://www.facebook.com/proyogLab/posts/pfbid02xmjjn5HaQKdGHjGnwAJJNvky5Nu1NXyma7JE5U4XFor33UWHRvRzh5tGPurNigzfl)" Programmable Learning Device & published my first [Book](https://drive.google.com/file/d/1i4Z0rtyxwGFQifbad1pXf-9SkGPxkgBg/view) for proyogLab™. -->
 
 - 🚀 Innovated and developed "[alokShobdo](https://www.facebook.com/proyogLab/posts/pfbid02xmjjn5HaQKdGHjGnwAJJNvky5Nu1NXyma7JE5U4XFor33UWHRvRzh5tGPurNigzfl)" Programmable 
-Learning Device & published my first [Book](https://drive.google.com/file/d/1i4Z0rtyxwGFQifbad1pXf-9SkGPxkgBg/view) for proyogLab™.
+Learning Device (embedded device)& published my first [Book](https://drive.google.com/file/d/1i4Z0rtyxwGFQifbad1pXf-9SkGPxkgBg/view) for proyogLab™.
 - 💼 Worked as SWE @[proyogLab](https://www.facebook.com/proyogLab)™, an IT venture.
 - 🛠️ Previously gained hands-on Experience as an R&D Programmer at the Turkish startup "Octagon Danışmanlık" [[Learn More]](https://drive.google.com/file/d/1Z8ok-TBtL7iSyvtbKhRGcS4NL8FuXRNR/view?usp=sharing)
 - 💼 Gained practical experience during undergrad studies as ESD @[impedancePlus](https://www.facebook.com/impedancePlus), an E-commerce Business.
-- 👨‍🎓 Graduated with a B.Sc in CSE from Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh .
+- 👨‍🎓 Graduated with a B.Sc in CSE from [Ahsanullah University of Science and Technology (AUST)](aust.edu), Dhaka, Bangladesh .
 
 I am deeply passionate about AI systems, Embedded Systems, Robotics, IoT, Electronics, Circuitry, SaaS, Automation, Machine Learning, Entrepreneurship, IT businesses, including conglomerate ventures. The belief in "never stop learning" constantly drives my motivation.
 <br> 
