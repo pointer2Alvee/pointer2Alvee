@@ -2,9 +2,14 @@
 
 <h1 align="center">Greetings 👋, I'm alvee</h1>
 <h3 align="center">"Machine Learning Engineer | Embedded Systems Developer | Entrepreneur" from Dhaka, Bangladesh</h3>
-
+<!-- below hide entreprenual activities before job found, uncomment later-->
+<!--
 - 💼 I Founded and currently operating an IT venture [proyogLab](https://www.facebook.com/proyogLab)™ alongside [impedancePlus](https://www.facebook.com/impedancePlus), an E-commerce Business. [[Learn More]](https://alvee.vercel.app/ventures) 
-- 🚀 Innovated and developed "[alokShobdo](https://www.facebook.com/proyogLab/posts/pfbid02xmjjn5HaQKdGHjGnwAJJNvky5Nu1NXyma7JE5U4XFor33UWHRvRzh5tGPurNigzfl)" Programmable Learning Device & published my first [Book](https://drive.google.com/file/d/1i4Z0rtyxwGFQifbad1pXf-9SkGPxkgBg/view) for proyogLab™. 
+- 🚀 Innovated and developed "[alokShobdo](https://www.facebook.com/proyogLab/posts/pfbid02xmjjn5HaQKdGHjGnwAJJNvky5Nu1NXyma7JE5U4XFor33UWHRvRzh5tGPurNigzfl)" Programmable Learning Device & published my first [Book](https://drive.google.com/file/d/1i4Z0rtyxwGFQifbad1pXf-9SkGPxkgBg/view) for proyogLab™. -->
+
+- 💼 Worked as SWE @[proyogLab](https://www.facebook.com/proyogLab)™, an IT venture. 
+- 💼 Gained practical experience during undergrad studies as ESD @[impedancePlus](https://www.facebook.com/impedancePlus), an E-commerce Business.
+- 🚀 Innovated and developed "[alokShobdo](https://www.facebook.com/proyogLab/posts/pfbid02xmjjn5HaQKdGHjGnwAJJNvky5Nu1NXyma7JE5U4XFor33UWHRvRzh5tGPurNigzfl)" Programmable Learning Device & published my first [Book](https://drive.google.com/file/d/1i4Z0rtyxwGFQifbad1pXf-9SkGPxkgBg/view) for proyogLab™.
 - 🛠️ Previously gained hands-on Experience as an R&D Programmer at the Turkish startup "Octagon Danışmanlık" [[Learn More]](https://drive.google.com/file/d/1Z8ok-TBtL7iSyvtbKhRGcS4NL8FuXRNR/view?usp=sharing) 
 - 👨‍🎓 Graduated with a B.Sc in CSE from Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh .
 
