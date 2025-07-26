@@ -74,7 +74,7 @@ I am deeply passionate about AI systems, Embedded Systems, Robotics, IoT, Electr
    <!-- GIT -->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></a>
    <!-- FRITNZING -->
-<a href="https://fritzing.org/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://static-00.iconduck.com/assets.00/fritzing-icon-2048x2048-t2pp6p4q.png" alt="Fritzing" width="30" height="30"/></a>
+<a href="https://fritzing.org/" target="_blank" rel="noreferrer"> <img class="img-size" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Fritzing_Software_Logo_Batch.png" alt="Fritzing" width="30" height="30"/></a>
 
 </p>
 
@@ -120,7 +120,7 @@ I am deeply passionate about AI systems, Embedded Systems, Robotics, IoT, Electr
 <!-- STM32 -->
 <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer"><img class="img-size" src="https://e7.pngegg.com/pngimages/157/473/png-clipart-stmicroelectronics-integrated-circuits-chips-printed-circuit-board-stm32-electronic-component-others-miscellaneous-blue.png" alt="STM32" width="30" height="30"/></a>
    <!-- Segger Embedded Studio -->
-   <a href="https://www.segger.com/products/development-tools/embedded-studio/" target="_blank" rel="noreferrer"><img class="img-size" src="https://c.a.segger.com/fileadmin/images/about-us/Media/Preview/segger-logo-outlines-the-embedded-experts_600x.png" alt="Segger Embedded Studio" width="30" height="30"/></a>
+   <a href="https://www.segger.com/products/development-tools/embedded-studio/" target="_blank" rel="noreferrer"><img class="img-size" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiKfCoTS0QPXR0f-BNEukt31qHu64fG1ZlNPCmX5p4bns-tNRwHcpSGTvGjAeWjYaQyHY&usqp=CAU" alt="Segger Embedded Studio" width="30" height="30"/></a>
    <!-- Aurix / infineon Technologies -->
    <a href="https://www.infineon.com/cms/en/product/microcontroller/32-bit-tricore-microcontroller/aurix-family-tc2xx/" target="_blank" rel="noreferrer"><img class="img-size" src="https://incabin.com/wp-content/uploads/2023/02/Infineon-Technologies-AG.webp" alt="Aurix" width="30" height="30"/></a>
 
